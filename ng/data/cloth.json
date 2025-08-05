@@ -17239,5 +17239,41 @@
             {"id":10018, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1860, "zone":"head", "category":"hat", "security":"cb8d43d9f8d45cfb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tiara",
+        "outfitName":"Royal fighter",
+        "variations":[
+            {"id":1860, "colors":["grey"]},
+            {"id":1861, "colors":["blue"]},
+            {"id":1862, "colors":["purple"]},
+            {"id":1863, "colors":["red"]},
+            {"id":1864, "colors":["orange"]},
+            {"id":1865, "colors":["black"]},
+            {"id":1866, "colors":["white"]},
+            {"id":1867, "colors":["yellow"]},
+            {"id":1868, "colors":["green"]},
+            {"id":1869, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10059, "zone":"head", "category":"earrings", "security":"18c69da03dee2112", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10059, "colors":["brown"]},
+            {"id":10060, "colors":["white"]},
+            {"id":10061, "colors":["black"]},
+            {"id":10062, "colors":["pink"]},
+            {"id":10063, "colors":["purple"]},
+            {"id":10064, "colors":["green"]},
+            {"id":10065, "colors":["red"]},
+            {"id":10066, "colors":["yellow"]},
+            {"id":10067, "colors":["blue"]},
+            {"id":10068, "colors":["rainbow"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
     }
 ]
