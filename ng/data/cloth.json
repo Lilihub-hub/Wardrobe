@@ -17239,5 +17239,455 @@
             {"id":10018, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1860, "zone":"head", "category":"hat", "security":"cb8d43d9f8d45cfb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tiara",
+        "outfitName":"Royal fighter",
+        "variations":[
+            {"id":1860, "colors":["grey"]},
+            {"id":1861, "colors":["blue"]},
+            {"id":1862, "colors":["purple"]},
+            {"id":1863, "colors":["red"]},
+            {"id":1864, "colors":["orange"]},
+            {"id":1865, "colors":["black"]},
+            {"id":1866, "colors":["white"]},
+            {"id":1867, "colors":["yellow"]},
+            {"id":1868, "colors":["green"]},
+            {"id":1869, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10059, "zone":"head", "category":"earrings", "security":"18c69da03dee2112", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10059, "colors":["brown"]},
+            {"id":10060, "colors":["white"]},
+            {"id":10061, "colors":["black"]},
+            {"id":10062, "colors":["pink"]},
+            {"id":10063, "colors":["purple"]},
+            {"id":10064, "colors":["green"]},
+            {"id":10065, "colors":["red"]},
+            {"id":10066, "colors":["yellow"]},
+            {"id":10067, "colors":["blue"]},
+            {"id":10068, "colors":["rainbow"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9999, "zone":"head", "category":"earrings", "security":"1f487fe3811749f6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9999, "colors":["white"]},
+            {"id":10000, "colors":["blue"]},
+            {"id":10001, "colors":["red"]},
+            {"id":10002, "colors":["pink"]},
+            {"id":10003, "colors":["black"]},
+            {"id":10004, "colors":["green"]},
+            {"id":10005, "colors":["purple"]},
+            {"id":10006, "colors":["yellow"]},
+            {"id":10007, "colors":["orange"]},
+            {"id":10008, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9989, "zone":"torso_waistToKnee", "category":"dress", "security":"c7532f808b9a02d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sweater-Dress",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9989, "colors":["pink"]},
+            {"id":9990, "colors":["brown"]},
+            {"id":9991, "colors":["black"]},
+            {"id":9992, "colors":["white"]},
+            {"id":9993, "colors":["yellow"]},
+            {"id":9994, "colors":["orange"]},
+            {"id":9995, "colors":["red"]},
+            {"id":9996, "colors":["purple"]},
+            {"id":9997, "colors":["blue"]},
+            {"id":9998, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10119, "zone":"torso_waistToKnee", "category":"dress", "security":"9ce9036f57b9c457", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10119, "colors":["blue"]},
+            {"id":10120, "colors":["red"]},
+            {"id":10121, "colors":["orange"]},
+            {"id":10122, "colors":["pink"]},
+            {"id":10123, "colors":["green"]},
+            {"id":10124, "colors":["pink"]},
+            {"id":10125, "colors":["purple"]},
+            {"id":10126, "colors":["black"]},
+            {"id":10127, "colors":["white"]},
+            {"id":10128, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-10"
+    },
+    {
+        "groupId":10089, "zone":"torso", "category":"jacket", "security":"78984535dc550d2f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sweater",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10089, "colors":["brown"]},
+            {"id":10090, "colors":["white"]},
+            {"id":10091, "colors":["black"]},
+            {"id":10092, "colors":["pink"]},
+            {"id":10093, "colors":["purple"]},
+            {"id":10094, "colors":["green"]},
+            {"id":10095, "colors":["red"]},
+            {"id":10096, "colors":["yellow"]},
+            {"id":10097, "colors":["blue"]},
+            {"id":10098, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },    
+    {
+        "groupId":1509, "zone":"torso", "category":"jacket", "security":"468baa3750615e2e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Coat",
+        "outfitName":"What the...?",
+        "variations":[
+            {"id":1509, "colors":["green"]},
+            {"id":1510, "colors":["pink"]},
+            {"id":1511, "colors":["white"]},
+            {"id":1512, "colors":["orange"]},
+            {"id":1513, "colors":["purple"]},
+            {"id":1514, "colors":["red"]},
+            {"id":1515, "colors":["black"]},
+            {"id":1516, "colors":["blue"]},
+            {"id":1517, "colors":["green"]},
+            {"id":1518, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10029, "zone":"torso_waistToKnee", "category":"underwear", "security":"bd242f2ca5693771", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lingerie",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10029, "colors":["black"]},
+            {"id":10030, "colors":["brown"]},
+            {"id":10031, "colors":["purple"]},
+            {"id":10032, "colors":["white"]},
+            {"id":10033, "colors":["green"]},
+            {"id":10034, "colors":["yellow"]},
+            {"id":10035, "colors":["pink"]},
+            {"id":10036, "colors":["green"]},
+            {"id":10037, "colors":["red"]},
+            {"id":10038, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9959, "zone":"torso_waistToKnee", "category":"underwear", "security":"9d0860d0e456e620", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lingerie",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9959, "colors":["yellow"]},
+            {"id":9960, "colors":["blue"]},
+            {"id":9961, "colors":["red"]},
+            {"id":9962, "colors":["pink"]},
+            {"id":9963, "colors":["black"]},
+            {"id":9964, "colors":["green"]},
+            {"id":9965, "colors":["purple"]},
+            {"id":9966, "colors":["yellow"]},
+            {"id":9967, "colors":["orange"]},
+            {"id":9968, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1549, "zone":"torso_waistToKnee", "category":"underwear", "security":"80bc313b209440f5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body Blouse",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1549, "colors":["pink"]},
+            {"id":1550, "colors":["purple"]},
+            {"id":1551, "colors":["green"]},
+            {"id":1552, "colors":["white"]},
+            {"id":1553, "colors":["yellow"]},
+            {"id":1554, "colors":["white"]},
+            {"id":1555, "colors":["black"]},
+            {"id":1556, "colors":["purple"]},
+            {"id":1557, "colors":["black"]},
+            {"id":1558, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1287, "zone":"torso_waistToKnee", "category":"dress", "security":"aa1a2f7a264eea3c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"dress",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1287, "colors":["pink"]},
+            {"id":1288, "colors":["purple"]},
+            {"id":1289, "colors":["green"]},
+            {"id":1290, "colors":["white"]},
+            {"id":1291, "colors":["yellow"]},
+            {"id":1292, "colors":["white"]},
+            {"id":1293, "colors":["black"]},
+            {"id":1294, "colors":["purple"]},
+            {"id":1295, "colors":["black"]},
+            {"id":1296, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1257, "zone":"torso_waistToKnee", "category":"dress", "security":"f6e94e12267ff8ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1257, "colors":["purple"]},
+            {"id":1258, "colors":["pink"]},
+            {"id":1259, "colors":["green"]},
+            {"id":1260, "colors":["black"]},
+            {"id":1261, "colors":["yellow"]},
+            {"id":1262, "colors":["red"]},
+            {"id":1263, "colors":["green"]},
+            {"id":1264, "colors":["purple"]},
+            {"id":1265, "colors":["blue"]},
+            {"id":1266, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+     {
+        "groupId":1780, "zone":"head", "category":"wig", "security":"d1bc61b2a833de5a", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1780, "colors":["brown"]},
+            {"id":1781, "colors":["white"]},
+            {"id":1782, "colors":["black"]},
+            {"id":1783, "colors":["blue"]},
+            {"id":1784, "colors":["green"]},
+            {"id":1785, "colors":["purple"]},
+            {"id":1786, "colors":["red"]},
+            {"id":1787, "colors":["yellow"]},
+            {"id":1788, "colors":["orange"]},
+            {"id":1789, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10139, "zone":"head", "category":"hat", "security":"dbde6cbbcd71a0d4", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Sunshade",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10139, "colors":["pink"]},
+            {"id":10140, "colors":["purple"]},
+            {"id":10141, "colors":["red"]},
+            {"id":10142, "colors":["pink"]},
+            {"id":10143, "colors":["green"]},
+            {"id":10144, "colors":["white"]},
+            {"id":10145, "colors":["blue"]},
+            {"id":10146, "colors":["black"]},
+            {"id":10147, "colors":["blue"]},
+            {"id":10148, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-10"
+    },
+    {
+        "groupId":10129, "zone":"torso_waistToKnee", "category":"waist", "security":"6e868e6300fd885a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Tentacles",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10129, "colors":["blue"]},
+            {"id":10130, "colors":["red"]},
+            {"id":10131, "colors":["orange"]},
+            {"id":10132, "colors":["pink"]},
+            {"id":10133, "colors":["green"]},
+            {"id":10134, "colors":["pink"]},
+            {"id":10135, "colors":["purple"]},
+            {"id":10136, "colors":["black"]},
+            {"id":10137, "colors":["white"]},
+            {"id":10138, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-10"
+    },
+     {
+        "groupId":10079, "zone":"waistToKnee", "category":"pants", "security":"258a0b742ba01b05", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10079, "colors":["blue"]},
+            {"id":10080, "colors":["red"]},
+            {"id":10081, "colors":["orange"]},
+            {"id":10082, "colors":["pink"]},
+            {"id":10083, "colors":["green"]},
+            {"id":10084, "colors":["pink"]},
+            {"id":10085, "colors":["purple"]},
+            {"id":10086, "colors":["black"]},
+            {"id":10087, "colors":["white"]},
+            {"id":10088, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10019, "zone":"arms", "category":"bag", "security":"c1e6ecc6eb569255", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cup",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":10019, "colors":["white"]},
+            {"id":10020, "colors":["brown"]},
+            {"id":10021, "colors":["black"]},
+            {"id":10022, "colors":["pink"]},
+            {"id":10023, "colors":["yellow"]},
+            {"id":10024, "colors":["orange"]},
+            {"id":10025, "colors":["red"]},
+            {"id":10026, "colors":["purple"]},
+            {"id":10027, "colors":["blue"]},
+            {"id":10028, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10049, "zone":"arms", "category":"armAccessory", "security":"4c3c817578e4cd49", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rings",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10049, "colors":["yellow"]},
+            {"id":10050, "colors":["brown"]},
+            {"id":10051, "colors":["purple"]},
+            {"id":10052, "colors":["white"]},
+            {"id":10053, "colors":["blue"]},
+            {"id":10054, "colors":["orange"]},
+            {"id":10055, "colors":["pink"]},
+            {"id":10056, "colors":["green"]},
+            {"id":10057, "colors":["red"]},
+            {"id":10058, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10039, "zone":"arms", "category":"handNailPolish", "security":"f0bacf32be6f5f3b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Nail Polish",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10039, "colors":["pink"]},
+            {"id":10040, "colors":["white"]},
+            {"id":10041, "colors":["black"]},
+            {"id":10042, "colors":["pink"]},
+            {"id":10043, "colors":["purple"]},
+            {"id":10044, "colors":["green"]},
+            {"id":10045, "colors":["red"]},
+            {"id":10046, "colors":["yellow"]},
+            {"id":10047, "colors":["purple"]},
+            {"id":10048, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10069, "zone":"feet", "category":"shoes", "security":"2e01e088bb6b9b4e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flats",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10069, "colors":["brown"]},
+            {"id":10070, "colors":["white"]},
+            {"id":10071, "colors":["black"]},
+            {"id":10072, "colors":["pink"]},
+            {"id":10073, "colors":["purple"]},
+            {"id":10074, "colors":["green"]},
+            {"id":10075, "colors":["red"]},
+            {"id":10076, "colors":["yellow"]},
+            {"id":10077, "colors":["blue"]},
+            {"id":10078, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1669, "zone":"feet", "category":"shoes", "security":"3fa5acdbc9620bd9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Playing in the rain",
+        "variations":[
+            {"id":1669, "colors":["green"]},
+            {"id":1670, "colors":["blue"]},
+            {"id":1671, "colors":["orange"]},
+            {"id":1672, "colors":["red"]},
+            {"id":1673, "colors":["white"]},
+            {"id":1674, "colors":["green"]},
+            {"id":1675, "colors":["black"]},
+            {"id":1676, "colors":["pink"]},
+            {"id":1677, "colors":["brown"]},
+            {"id":1678, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10099, "zone":"feet", "category":"shoes", "security":"596d982e53aff766", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Heels",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10099, "colors":["blue"]},
+            {"id":10100, "colors":["red"]},
+            {"id":10101, "colors":["orange"]},
+            {"id":10102, "colors":["pink"]},
+            {"id":10103, "colors":["green"]},
+            {"id":10104, "colors":["pink"]},
+            {"id":10105, "colors":["purple"]},
+            {"id":10106, "colors":["black"]},
+            {"id":10107, "colors":["white"]},
+            {"id":10108, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-10"
+    },
+    {
+        "groupId":9979, "zone":"feet", "category":"socks", "security":"e0e7d155540f76a2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Socks",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9979, "colors":["brown"]},
+            {"id":9980, "colors":["blue"]},
+            {"id":9981, "colors":["red"]},
+            {"id":9982, "colors":["pink"]},
+            {"id":9983, "colors":["black"]},
+            {"id":9984, "colors":["green"]},
+            {"id":9985, "colors":["purple"]},
+            {"id":9986, "colors":["yellow"]},
+            {"id":9987, "colors":["orange"]},
+            {"id":9988, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9969, "zone":"feet", "category":"socks", "security":"ab7f0f637b1f4c3c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tights",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":9969, "colors":["white"]}
+            {"id":9970, "colors":["brown"]},
+            {"id":9971, "colors":["blue"]},
+            {"id":9972, "colors":["red"]},
+            {"id":9973, "colors":["pink"]},
+            {"id":9974, "colors":["black"]},
+            {"id":9975, "colors":["green"]},
+            {"id":9976, "colors":["purple"]},
+            {"id":9977, "colors":["yellow"]},
+            {"id":9978, "colors":["orange"]},
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10149, "zone":"general", "category":"other", "security":"f1d87f41015b42d0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jellyfish",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10149, "colors":["blue"]},
+            {"id":10150, "colors":["red"]},
+            {"id":10151, "colors":["orange"]},
+            {"id":10152, "colors":["pink"]},
+            {"id":10153, "colors":["green"]},
+            {"id":10154, "colors":["pink"]},
+            {"id":10155, "colors":["purple"]},
+            {"id":10156, "colors":["black"]},
+            {"id":10157, "colors":["white"]},
+            {"id":10158, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-10"
     }
 ]
