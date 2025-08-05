@@ -17275,5 +17275,41 @@
             {"id":10068, "colors":["rainbow"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9999, "zone":"head", "category":"earrings", "security":"1f487fe3811749f6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9999, "colors":["white"]},
+            {"id":10000, "colors":["blue"]},
+            {"id":10001, "colors":["red"]},
+            {"id":10002, "colors":["pink"]},
+            {"id":10003, "colors":["black"]},
+            {"id":10004, "colors":["green"]},
+            {"id":10005, "colors":["purple"]},
+            {"id":10006, "colors":["yellow"]},
+            {"id":10007, "colors":["orange"]},
+            {"id":10008, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9989, "zone":"torso_waistToKnee", "category":"dress", "security":"c7532f808b9a02d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sweater-Dress",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9989, "colors":["pink"]},
+            {"id":9990, "colors":["brown"]},
+            {"id":9991, "colors":["black"]},
+            {"id":9992, "colors":["white"]},
+            {"id":9993, "colors":["yellow"]},
+            {"id":9994, "colors":["orange"]},
+            {"id":9995, "colors":["red"]},
+            {"id":9996, "colors":["purple"]},
+            {"id":9997, "colors":["blue"]},
+            {"id":9998, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
     }
 ]
