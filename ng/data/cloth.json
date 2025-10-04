@@ -19035,5 +19035,23 @@
             {"id":10168, "colors":["green"]}
         ], "criteria":null,
         "releaseDate":"2025-10-03"
-    }   
+    },
+     {
+        "groupId":10209, "zone":"torso", "category":"jacket", "security":"fff4151858dc3bc2", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Coat",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10209, "colors":["green"]},
+            {"id":10210, "colors":["blue"]},
+            {"id":10211, "colors":["pink"]},
+            {"id":10212, "colors":["black"]},
+            {"id":10213, "colors":["white"]},
+            {"id":10214, "colors":["brown"]},
+            {"id":10215, "colors":["purple"]},
+            {"id":10216, "colors":["orange"]},
+            {"id":10217, "colors":["green"]},
+            {"id":10218, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-03"
+    }    
 ]
