@@ -18963,5 +18963,23 @@
             {"id":10865, "colors":["brown"], "variationNumber":10}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10199, "zone":"face", "category":"neckAccessory", "security":"e0957f18245149d5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Fular",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10199, "colors":["green"]},
+            {"id":10200, "colors":["blue"]},
+            {"id":10201, "colors":["pink"]},
+            {"id":10202, "colors":["black"]},
+            {"id":10203, "colors":["white"]},
+            {"id":10204, "colors":["brown"]},
+            {"id":10205, "colors":["purple"]},
+            {"id":10206, "colors":["orange"]},
+            {"id":10207, "colors":["green"]},
+            {"id":10208, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-03"
     }
 ]
