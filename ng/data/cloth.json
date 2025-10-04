@@ -19017,5 +19017,23 @@
             {"id":10198, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-10-03"
-    }
+    },
+      {
+        "groupId":10159, "zone":"general", "category":"tattoo", "security":"be0df2f89c2ee64c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tattoo",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10159, "colors":["black"]},
+            {"id":10160, "colors":["brown"]},
+            {"id":10161, "colors":["pink"]},
+            {"id":10162, "colors":["red"]},
+            {"id":10163, "colors":["white"]},
+            {"id":10164, "colors":["green"]},
+            {"id":10165, "colors":["purple"]},
+            {"id":10166, "colors":["orange"]},
+            {"id":10167, "colors":["blue"]},
+            {"id":10168, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-03"
+    }   
 ]
