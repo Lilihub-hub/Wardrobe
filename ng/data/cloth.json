@@ -18963,5 +18963,23 @@
             {"id":10865, "colors":["brown"], "variationNumber":10}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+        {
+        "groupId":11047, "zone":"head", "category":"hat", "security":"4468d7607d36aca1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hood",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11047, "colors":["black"]},
+            {"id":11048, "colors":["white"]},
+            {"id":11049, "colors":["green"]},
+            {"id":11050, "colors":["brown"]},
+            {"id":11051, "colors":["red"]},
+            {"id":11052, "colors":["orange"]},
+            {"id":11053, "colors":["purple"]},
+            {"id":11054, "colors":["blue"]},
+            {"id":11055, "colors":["grey"]},
+            {"id":11056, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
     }  
 ]
