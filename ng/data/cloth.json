@@ -20320,5 +20320,23 @@
             {"id":11486, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11467, "zone":"torso", "category":"jacket", "security":"b1ebbf5755f8cf5f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sewather",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11467, "colors":["red"]},
+            {"id":11468, "colors":["blue"]},
+            {"id":11469, "colors":["purple"]},
+            {"id":11470, "colors":["yellow"]},
+            {"id":11471, "colors":["brown"]},
+            {"id":11472, "colors":["green"]},
+            {"id":11473, "colors":["green"]},
+            {"id":11474, "colors":["blue"]},
+            {"id":11475, "colors":["white"]},
+            {"id":11476, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
     }
 ]
