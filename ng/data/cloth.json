@@ -20302,5 +20302,23 @@
             {"id":11857, "colors":["multi"]}
         ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
         "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11477, "zone":"head", "category":"hat", "security":"99bfa48b51d45252", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11477, "colors":["red"]},
+            {"id":11478, "colors":["blue"]},
+            {"id":11479, "colors":["purple"]},
+            {"id":11480, "colors":["yellow"]},
+            {"id":11481, "colors":["brown"]},
+            {"id":11482, "colors":["green"]},
+            {"id":11483, "colors":["green"]},
+            {"id":11484, "colors":["blue"]},
+            {"id":11485, "colors":["white"]},
+            {"id":11486, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
     }
 ]
