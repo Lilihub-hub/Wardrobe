@@ -20374,5 +20374,23 @@
             {"id":11456, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11437, "zone":"feet", "category":"shoes", "security":"cfd5c30734d46541", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11437, "colors":["red"]},
+            {"id":11438, "colors":["blue"]},
+            {"id":11439, "colors":["purple"]},
+            {"id":11440, "colors":["yellow"]},
+            {"id":11441, "colors":["brown"]},
+            {"id":11442, "colors":["green"]},
+            {"id":11443, "colors":["green"]},
+            {"id":11444, "colors":["blue"]},
+            {"id":11445, "colors":["white"]},
+            {"id":11446, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
     }
 ]
