@@ -20392,5 +20392,23 @@
             {"id":11446, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11427, "zone":"feet", "category":"socks", "security":"57532c00ab366673", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Socks",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11427, "colors":["red"]},
+            {"id":11428, "colors":["blue"]},
+            {"id":11429, "colors":["purple"]},
+            {"id":11430, "colors":["yellow"]},
+            {"id":11431, "colors":["brown"]},
+            {"id":11432, "colors":["green"]},
+            {"id":11433, "colors":["green"]},
+            {"id":11434, "colors":["blue"]},
+            {"id":11435, "colors":["white"]},
+            {"id":11436, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
     }
 ]
