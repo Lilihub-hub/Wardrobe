@@ -20338,5 +20338,23 @@
             {"id":11476, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11457, "zone":"arms", "category":"bag", "security":"f4a355ad2fe9aa2d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shopping bag",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11457, "colors":["red"]},
+            {"id":11458, "colors":["blue"]},
+            {"id":11459, "colors":["purple"]},
+            {"id":11460, "colors":["yellow"]},
+            {"id":11461, "colors":["brown"]},
+            {"id":11462, "colors":["green"]},
+            {"id":11463, "colors":["green"]},
+            {"id":11464, "colors":["blue"]},
+            {"id":11465, "colors":["white"]},
+            {"id":11466, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
     }
 ]
