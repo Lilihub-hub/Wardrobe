@@ -20356,5 +20356,23 @@
             {"id":11466, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11447, "zone":"waistToKnee", "category":"skirt", "security":"f985287072d1a394", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11447, "colors":["red"]},
+            {"id":11448, "colors":["blue"]},
+            {"id":11449, "colors":["purple"]},
+            {"id":11450, "colors":["yellow"]},
+            {"id":11451, "colors":["brown"]},
+            {"id":11452, "colors":["green"]},
+            {"id":11453, "colors":["green"]},
+            {"id":11454, "colors":["blue"]},
+            {"id":11455, "colors":["white"]},
+            {"id":11456, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
     }
 ]
