@@ -20669,15 +20669,15 @@
         "outfitName":"Kitty Girl",
         "variations":[
             {"id":1930, "colors":["blue"]},
-            {"id":1930, "colors":["pink"]},
-            {"id":1930, "colors":["yellow"]},
-            {"id":1930, "colors":["white"]},
-            {"id":1930, "colors":["purple"]},
-            {"id":1930, "colors":["green"]},
-            {"id":1930, "colors":["orange"]},
-            {"id":1930, "colors":["black"]},
-            {"id":1930, "colors":["yellow"]},
-            {"id":1930, "colors":["brown"]}
+            {"id":1931, "colors":["pink"]},
+            {"id":1932, "colors":["yellow"]},
+            {"id":1933, "colors":["white"]},
+            {"id":1934, "colors":["purple"]},
+            {"id":1935, "colors":["green"]},
+            {"id":1936, "colors":["orange"]},
+            {"id":1937, "colors":["black"]},
+            {"id":1938, "colors":["yellow"]},
+            {"id":1939, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
     }
