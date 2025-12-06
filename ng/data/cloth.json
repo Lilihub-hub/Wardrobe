@@ -20411,4 +20411,23 @@
         ], "criteria":null,
         "releaseDate":"2025-12-02"
     }
+,
+    {
+        "groupId":11738, "zone":"head", "category":"earring", "security":"aa77f43215144009", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11738, "colors":["orange"]},
+            {"id":11739, "colors":["grey"]},
+            {"id":11740, "colors":["black"]},
+            {"id":11741, "colors":["pink"]},
+            {"id":11742, "colors":["purple"]},
+            {"id":11743, "colors":["blue"]},
+            {"id":11744, "colors":["green"]},
+            {"id":11745, "colors":["white"]},
+            {"id":11746, "colors":["brown"]},
+            {"id":11747, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
+    }
 ]
