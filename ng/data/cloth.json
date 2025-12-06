@@ -20590,5 +20590,23 @@
             {"id":11687, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11668, "zone":"waistToKnee", "category":"skirt", "security":"763e6868db8bc052", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11668, "colors":["blue"]},
+            {"id":11669, "colors":["green"]},
+            {"id":11670, "colors":["purple"]},
+            {"id":11671, "colors":["pink"]},
+            {"id":11672, "colors":["yellow"]},
+            {"id":11673, "colors":["brown"]},
+            {"id":11674, "colors":["white"]},
+            {"id":11675, "colors":["black"]},
+            {"id":11676, "colors":["red"]},
+            {"id":11677, "colors":["orange"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
