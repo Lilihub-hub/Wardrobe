@@ -20608,5 +20608,23 @@
             {"id":11677, "colors":["orange"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11658, "zone":"feet", "category":"shoes", "security":"b211fac3db881fac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandals",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11658, "colors":["blue"]},
+            {"id":11659, "colors":["green"]},
+            {"id":11660, "colors":["purple"]},
+            {"id":11661, "colors":["pink"]},
+            {"id":11662, "colors":["yellow"]},
+            {"id":11663, "colors":["brown"]},
+            {"id":11664, "colors":["white"]},
+            {"id":11665, "colors":["black"]},
+            {"id":11666, "colors":["red"]},
+            {"id":11667, "colors":["orange"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
