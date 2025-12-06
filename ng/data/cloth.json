@@ -20736,7 +20736,7 @@
         "releaseDate":"2025-12-05"
     },
     {
-        "groupId":1760, "zone":"general", "category":"other", "security":"5565b2b0db77bcec", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":1760, "zone":"general", "category":"other", "security":"5565b2b0db77bcec", "multiLayered":true, "layerBehavior":"normal",
         "name":"Flowery Ground",
         "outfitName":"Flowerly",
         "variations":[
