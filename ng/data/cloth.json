@@ -20446,5 +20446,23 @@
             {"id":11767, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11708, "zone":"torso_waistToKnee", "category":"underwear", "security":"298b63bfe9b7ae3f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Swimsuit",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11708, "colors":["red"]},
+            {"id":11709, "colors":["blue"]},
+            {"id":11710, "colors":["black"]},
+            {"id":11711, "colors":["pink"]},
+            {"id":11712, "colors":["purple"]},
+            {"id":11713, "colors":["green"]},
+            {"id":11714, "colors":["green"]},
+            {"id":11715, "colors":["yellow"]},
+            {"id":11716, "colors":["brown"]},
+            {"id":11717, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
