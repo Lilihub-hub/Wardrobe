@@ -20518,5 +20518,23 @@
             {"id":11757, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11688, "zone":"face", "category":"neckAccessory", "security":"c417c9c30df072b2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11688, "colors":["orange"]},
+            {"id":11689, "colors":["blue"]},
+            {"id":11690, "colors":["pink"]},
+            {"id":11691, "colors":["purple"]},
+            {"id":11692, "colors":["green"]},
+            {"id":11693, "colors":["white"]},
+            {"id":11694, "colors":["brown"]},
+            {"id":11695, "colors":["red"]},
+            {"id":11696, "colors":["black"]},
+            {"id":11697, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
