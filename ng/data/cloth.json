@@ -20428,5 +20428,23 @@
             {"id":11747, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11758, "zone":"torso", "category":"jacket", "security":"c06b8c00105082d1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Kimono",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11758, "colors":["orange"]},
+            {"id":11759, "colors":["white"]},
+            {"id":11760, "colors":["black"]},
+            {"id":11761, "colors":["pink"]},
+            {"id":11762, "colors":["purple"]},
+            {"id":11763, "colors":["blue"]},
+            {"id":11764, "colors":["green"]},
+            {"id":11765, "colors":["yellow"]},
+            {"id":11766, "colors":["brown"]},
+            {"id":11767, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
