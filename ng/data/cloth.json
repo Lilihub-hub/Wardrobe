@@ -20752,5 +20752,14 @@
             {"id":1769, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":3433, "zone":"general", "category":"other", "security":"8049558759d47422", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Rain",
+        "outfitName":"Playing in the rain",
+        "variations":[
+            {"id":3433, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
