@@ -20734,5 +20734,23 @@
             {"id":1618, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1760, "zone":"general", "category":"other", "security":"5565b2b0db77bcec", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flowery Ground",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1760, "colors":["white"]},
+            {"id":1761, "colors":["black"]},
+            {"id":1762, "colors":["grey"]},
+            {"id":1763, "colors":["yellow"]},
+            {"id":1764, "colors":["brown"]},
+            {"id":1765, "colors":["pink"]},
+            {"id":1766, "colors":["blue"]},
+            {"id":1767, "colors":["purple"]},
+            {"id":1768, "colors":["green"]},
+            {"id":1769, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
