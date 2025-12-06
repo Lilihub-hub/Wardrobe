@@ -20698,5 +20698,23 @@
             {"id":1538, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1579, "zone":"waistToKnee", "category":"skirt", "security":"872bdb998f90ac55", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Magical Girl",
+        "variations":[
+            {"id":1579, "colors":["pink"]},
+            {"id":1580, "colors":["pink"]},
+            {"id":1581, "colors":["orange"]},
+            {"id":1582, "colors":["yellow"]},
+            {"id":1583, "colors":["green"]},
+            {"id":1584, "colors":["blue"]},
+            {"id":1585, "colors":["blue"]},
+            {"id":1586, "colors":["purple"]},
+            {"id":1587, "colors":["white"]},
+            {"id":1588, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
