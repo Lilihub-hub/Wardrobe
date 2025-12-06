@@ -20464,5 +20464,23 @@
             {"id":11717, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11737, "zone":"arms", "category":"handNailPolish", "security":"5ae2af07195d0058", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Nail Polish",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11737, "colors":["red"]},
+            {"id":11738, "colors":["blue"]},
+            {"id":11739, "colors":["black"]},
+            {"id":11740, "colors":["white"]},
+            {"id":11741, "colors":["purple"]},
+            {"id":11742, "colors":["green"]},
+            {"id":11743, "colors":["green"]},
+            {"id":11744, "colors":["orange"]},
+            {"id":11745, "colors":["brown"]},
+            {"id":11746, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
