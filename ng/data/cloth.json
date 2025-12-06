@@ -20500,5 +20500,23 @@
             {"id":11727, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11748, "zone":"feet", "category":"shoes", "security":"1d857e33ae5d361a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandals",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11748, "colors":["brown"]},
+            {"id":11749, "colors":["white"]},
+            {"id":11750, "colors":["black"]},
+            {"id":11751, "colors":["pink"]},
+            {"id":11752, "colors":["purple"]},
+            {"id":11753, "colors":["blue"]},
+            {"id":11754, "colors":["green"]},
+            {"id":11755, "colors":["yellow"]},
+            {"id":11756, "colors":["brown"]},
+            {"id":11757, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
