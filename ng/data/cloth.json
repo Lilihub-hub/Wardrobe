@@ -20644,5 +20644,23 @@
             {"id":1256, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1719, "zone":"arms", "category":"bag", "security":"6263d936d69d8bb1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Umbrella",
+        "outfitName":"Playing in the rain",
+        "variations":[
+            {"id":1719, "colors":["green"]},
+            {"id":1720, "colors":["blue"]},
+            {"id":1721, "colors":["orange"]},
+            {"id":1722, "colors":["red"]},
+            {"id":1723, "colors":["white"]},
+            {"id":1724, "colors":["green"]},
+            {"id":1725, "colors":["black"]},
+            {"id":1726, "colors":["pink"]},
+            {"id":1727, "colors":["brown"]},
+            {"id":1728, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
