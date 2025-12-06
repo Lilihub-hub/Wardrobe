@@ -20716,5 +20716,23 @@
             {"id":1588, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1609, "zone":"general", "category":"tattoo", "security":"2d1ff8a94b3e0a7d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cyborg Skin",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1609, "colors":["white"]},
+            {"id":1610, "colors":["black"]},
+            {"id":1611, "colors":["grey"]},
+            {"id":1612, "colors":["yellow"]},
+            {"id":1613, "colors":["brown"]},
+            {"id":1614, "colors":["pink"]},
+            {"id":1615, "colors":["blue"]},
+            {"id":1616, "colors":["purple"]},
+            {"id":1617, "colors":["green"]},
+            {"id":1618, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
