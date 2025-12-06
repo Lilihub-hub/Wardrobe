@@ -20410,8 +20410,7 @@
             {"id":11436, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-12-02"
-    }
-,
+    },
     {
         "groupId":11738, "zone":"head", "category":"earring", "security":"aa77f43215144009", "multiLayered":true, "layerBehavior":"normal",
         "name":"Earrings",
