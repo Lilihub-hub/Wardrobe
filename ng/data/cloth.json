@@ -20554,5 +20554,23 @@
             {"id":11657, "colors":["orange"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11698, "zone":"arms", "category":"bag", "security":"5d6519f6aaf0557c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11698, "colors":["orange"]},
+            {"id":11699, "colors":["blue"]},
+            {"id":11700, "colors":["pink"]},
+            {"id":11701, "colors":["purple"]},
+            {"id":11702, "colors":["green"]},
+            {"id":11703, "colors":["white"]},
+            {"id":11704, "colors":["brown"]},
+            {"id":11705, "colors":["red"]},
+            {"id":11706, "colors":["black"]},
+            {"id":11707, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
