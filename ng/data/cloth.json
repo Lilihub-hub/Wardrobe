@@ -20536,5 +20536,23 @@
             {"id":11697, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11648, "zone":"torso_waistToKnee", "category":"underwear", "security":"c1e83fcf77167fa3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Swimsuit",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11648, "colors":["blue"]},
+            {"id":11649, "colors":["green"]},
+            {"id":11650, "colors":["purple"]},
+            {"id":11651, "colors":["pink"]},
+            {"id":11652, "colors":["yellow"]},
+            {"id":11653, "colors":["brown"]},
+            {"id":11654, "colors":["white"]},
+            {"id":11655, "colors":["black"]},
+            {"id":11656, "colors":["red"]},
+            {"id":11657, "colors":["orange"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
