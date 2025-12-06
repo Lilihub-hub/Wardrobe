@@ -20572,5 +20572,23 @@
             {"id":11707, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11678, "zone":"arms", "category":"armAccessory", "security":"08b90abfe100011a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11678, "colors":["orange"]},
+            {"id":11679, "colors":["blue"]},
+            {"id":11680, "colors":["pink"]},
+            {"id":11681, "colors":["purple"]},
+            {"id":11682, "colors":["green"]},
+            {"id":11683, "colors":["white"]},
+            {"id":11684, "colors":["brown"]},
+            {"id":11685, "colors":["red"]},
+            {"id":11686, "colors":["black"]},
+            {"id":11687, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
