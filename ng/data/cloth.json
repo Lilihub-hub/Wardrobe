@@ -20680,5 +20680,23 @@
             {"id":1939, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1529, "zone":"waistToKnee", "category":"pants", "security":"af3fcc2ca5373585", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Leggings",
+        "outfitName":"What the...?",
+        "variations":[
+            {"id":1529, "colors":["white"]},
+            {"id":1530, "colors":["blue"]},
+            {"id":1531, "colors":["green"]},
+            {"id":1532, "colors":["pink"]},
+            {"id":1533, "colors":["black"]},
+            {"id":1534, "colors":["yellow"]},
+            {"id":1535, "colors":["red"]},
+            {"id":1536, "colors":["blue"]},
+            {"id":1537, "colors":["purple"]},
+            {"id":1538, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
