@@ -20662,5 +20662,23 @@
             {"id":1728, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1930, "zone":"arms", "category":"bag", "security":"e08c10437b969c1f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Milk carton",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1930, "colors":["blue"]},
+            {"id":1930, "colors":["pink"]},
+            {"id":1930, "colors":["yellow"]},
+            {"id":1930, "colors":["white"]},
+            {"id":1930, "colors":["purple"]},
+            {"id":1930, "colors":["green"]},
+            {"id":1930, "colors":["orange"]},
+            {"id":1930, "colors":["black"]},
+            {"id":1930, "colors":["yellow"]},
+            {"id":1930, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
