@@ -20482,5 +20482,23 @@
             {"id":11746, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11718, "zone":"waistToKnee", "category":"pants", "security":"d4e203da62904c0a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shorts",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11718, "colors":["brown"]},
+            {"id":11719, "colors":["blue"]},
+            {"id":11720, "colors":["black"]},
+            {"id":11721, "colors":["white"]},
+            {"id":11722, "colors":["pink"]},
+            {"id":11723, "colors":["purple"]},
+            {"id":11724, "colors":["yellow"]},
+            {"id":11725, "colors":["green"]},
+            {"id":11726, "colors":["red"]},
+            {"id":11727, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-05"
     }
 ]
