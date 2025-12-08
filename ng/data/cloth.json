@@ -20869,5 +20869,23 @@
             {"id":12007, "colors":["green"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12008, "zone":"torso_waistToKnee", "category":"waist", "security":"e05dd3454a6f9b20", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Belt",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12008, "colors":["green"]},
+            {"id":12009, "colors":["red"]},
+            {"id":12010, "colors":["blue"]},
+            {"id":12011, "colors":["purple"]},
+            {"id":12012, "colors":["brown"]},
+            {"id":12013, "colors":["white"]},
+            {"id":12014, "colors":["black"]},
+            {"id":12015, "colors":["yellow"]},
+            {"id":12016, "colors":["pink"]},
+            {"id":12017, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
