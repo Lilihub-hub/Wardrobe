@@ -20815,5 +20815,23 @@
             {"id":12037, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12018, "zone":"face", "category":"neckAccessory", "security":"d0f110e8c7fe874c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12018, "colors":["green"]},
+            {"id":12019, "colors":["red"]},
+            {"id":12020, "colors":["blue"]},
+            {"id":12021, "colors":["purple"]},
+            {"id":12022, "colors":["orange"]},
+            {"id":12023, "colors":["white"]},
+            {"id":12024, "colors":["black"]},
+            {"id":12025, "colors":["yellow"]},
+            {"id":12026, "colors":["pink"]},
+            {"id":12027, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
