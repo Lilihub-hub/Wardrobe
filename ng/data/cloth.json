@@ -21031,5 +21031,23 @@
             {"id":11947, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11908, "zone":"torso_waistToKnee", "category":"waist", "security":"7283daa787138cb0", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Traîne",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11908, "colors":["red"]},
+            {"id":11909, "colors":["blue"]},
+            {"id":11910, "colors":["green"]},
+            {"id":11911, "colors":["purple"]},
+            {"id":11912, "colors":["blue"]},
+            {"id":11913, "colors":["pink"]},
+            {"id":11914, "colors":["brown"]},
+            {"id":11915, "colors":["black"]},
+            {"id":11916, "colors":["white"]},
+            {"id":11917, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
