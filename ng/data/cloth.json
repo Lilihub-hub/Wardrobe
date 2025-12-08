@@ -20923,5 +20923,23 @@
             {"id":11977, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11958, "zone":"feet", "category":"shoes", "security":"280faa9964ce573c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandals",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11958, "colors":["brown"]},
+            {"id":11959, "colors":["grey"]},
+            {"id":11960, "colors":["yellow"]},
+            {"id":11961, "colors":["white"]},
+            {"id":11962, "colors":["black"]},
+            {"id":11963, "colors":["green"]},
+            {"id":11964, "colors":["red"]},
+            {"id":11965, "colors":["pink"]},
+            {"id":11966, "colors":["purple"]},
+            {"id":11967, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
