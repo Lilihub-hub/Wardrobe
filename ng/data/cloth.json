@@ -21103,5 +21103,23 @@
             {"id":11887, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11858, "zone":"feet", "category":"socks", "security":"d49e990005b1f0b4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11858, "colors":["red"]},
+            {"id":11859, "colors":["blue"]},
+            {"id":11860, "colors":["green"]},
+            {"id":11861, "colors":["purple"]},
+            {"id":11862, "colors":["blue"]},
+            {"id":11863, "colors":["pink"]},
+            {"id":11864, "colors":["brown"]},
+            {"id":11865, "colors":["black"]},
+            {"id":11866, "colors":["white"]},
+            {"id":11867, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
