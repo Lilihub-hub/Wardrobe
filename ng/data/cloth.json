@@ -21085,5 +21085,23 @@
             {"id":11897, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11878, "zone":"feet", "category":"shoes", "security":"9c49b7a746a29b21", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11878, "colors":["red"]},
+            {"id":11879, "colors":["blue"]},
+            {"id":11880, "colors":["green"]},
+            {"id":11881, "colors":["purple"]},
+            {"id":11882, "colors":["blue"]},
+            {"id":11883, "colors":["pink"]},
+            {"id":11884, "colors":["brown"]},
+            {"id":11885, "colors":["black"]},
+            {"id":11886, "colors":["white"]},
+            {"id":11887, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
