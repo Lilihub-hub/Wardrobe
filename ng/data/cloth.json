@@ -20761,5 +20761,23 @@
             {"id":3433, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":12048, "zone":"head", "category":"hat", "security":"bcddcacc720d70b1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12048, "colors":["green"]},
+            {"id":12049, "colors":["red"]},
+            {"id":12050, "colors":["blue"]},
+            {"id":12051, "colors":["purple"]},
+            {"id":12052, "colors":["orange"]},
+            {"id":12053, "colors":["white"]},
+            {"id":12054, "colors":["black"]},
+            {"id":12055, "colors":["yellow"]},
+            {"id":12056, "colors":["pink"]},
+            {"id":12057, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
