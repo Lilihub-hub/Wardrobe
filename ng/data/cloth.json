@@ -20887,5 +20887,23 @@
             {"id":12017, "colors":["green"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11978, "zone":"arms", "category":"armAccessory", "security":"f1126a2a16d69c8b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelets",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11978, "colors":["brown"]},
+            {"id":11979, "colors":["grey"]},
+            {"id":11980, "colors":["yellow"]},
+            {"id":11981, "colors":["white"]},
+            {"id":11982, "colors":["black"]},
+            {"id":11983, "colors":["green"]},
+            {"id":11984, "colors":["red"]},
+            {"id":11985, "colors":["pink"]},
+            {"id":11986, "colors":["purple"]},
+            {"id":11987, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
