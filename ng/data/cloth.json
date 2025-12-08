@@ -20977,5 +20977,23 @@
             {"id":11937, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11918, "zone":"face", "category":"neckAccessory", "security":"c78a8875796ba623", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11918, "colors":["red"]},
+            {"id":11919, "colors":["blue"]},
+            {"id":11920, "colors":["green"]},
+            {"id":11921, "colors":["purple"]},
+            {"id":11922, "colors":["blue"]},
+            {"id":11923, "colors":["pink"]},
+            {"id":11924, "colors":["brown"]},
+            {"id":11925, "colors":["black"]},
+            {"id":11926, "colors":["white"]},
+            {"id":11927, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
