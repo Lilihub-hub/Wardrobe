@@ -21013,5 +21013,23 @@
             {"id":11907, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11938, "zone":"torso", "category":"jacket", "security":"80c716c5a58c0a05", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Feathers",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11938, "colors":["red"]},
+            {"id":11939, "colors":["blue"]},
+            {"id":11940, "colors":["green"]},
+            {"id":11941, "colors":["purple"]},
+            {"id":11942, "colors":["blue"]},
+            {"id":11943, "colors":["pink"]},
+            {"id":11944, "colors":["brown"]},
+            {"id":11945, "colors":["black"]},
+            {"id":11946, "colors":["white"]},
+            {"id":11947, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
