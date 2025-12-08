@@ -20959,5 +20959,23 @@
             {"id":11950, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11928, "zone":"head", "category":"wig", "security":"ed2a90035886fa49", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Wig",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11928, "colors":["brown"]},
+            {"id":11929, "colors":["white"]},
+            {"id":11930, "colors":["black"]},
+            {"id":11931, "colors":["blue"]},
+            {"id":11932, "colors":["green"]},
+            {"id":11933, "colors":["purple"]},
+            {"id":11934, "colors":["red"]},
+            {"id":11935, "colors":["yellow"]},
+            {"id":11936, "colors":["orange"]},
+            {"id":11937, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
