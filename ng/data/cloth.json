@@ -21067,5 +21067,23 @@
             {"id":11917, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11888, "zone":"arms", "category":"gloves", "security":"68d01721cee5f3e3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Underwear",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11888, "colors":["red"]},
+            {"id":11889, "colors":["blue"]},
+            {"id":11890, "colors":["green"]},
+            {"id":11891, "colors":["purple"]},
+            {"id":11892, "colors":["blue"]},
+            {"id":11893, "colors":["pink"]},
+            {"id":11894, "colors":["brown"]},
+            {"id":11895, "colors":["black"]},
+            {"id":11896, "colors":["white"]},
+            {"id":11897, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
