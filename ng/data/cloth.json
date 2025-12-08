@@ -20781,7 +20781,7 @@
         "releaseDate":"2025-12-08"
     },
     {
-        "groupId":12038, "zone":"head", "category":"wig", "security":"381548a82deafbfb", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":12038, "zone":"head", "category":"wig", "security":"381548a82deafbfb", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Wig",
         "outfitName":"Veil of the Scarab",
         "variations":[
