@@ -20948,15 +20948,15 @@
         "outfitName":"Muse du Moulin Rouge",
         "variations":[
             {"id":11948, "colors":["red"]},
-            {"id":11948, "colors":["blue"]},
+            {"id":11949, "colors":["blue"]},
             {"id":11950, "colors":["green"]},
-            {"id":11950, "colors":["purple"]},
-            {"id":11950, "colors":["blue"]},
-            {"id":11950, "colors":["pink"]},
-            {"id":11950, "colors":["brown"]},
-            {"id":11950, "colors":["black"]},
-            {"id":11950, "colors":["white"]},
-            {"id":11950, "colors":["yellow"]}
+            {"id":11951, "colors":["purple"]},
+            {"id":11952, "colors":["blue"]},
+            {"id":11953, "colors":["pink"]},
+            {"id":11954, "colors":["brown"]},
+            {"id":11955, "colors":["black"]},
+            {"id":11956, "colors":["white"]},
+            {"id":11957, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
     },
