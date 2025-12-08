@@ -502,8 +502,8 @@
             },
             {
                 "groupId":227, "zone":"face", "category":"eyes", "security":"cf8a41b6bcd5128f",
-                "name":"Ojos",
-                "outfitName":"Muse du Moulin Rouge",
+                "name":"Eyes",
+                "outfitName":"Moulin Rouge Muse",
                 "variations":[
                     {"id":227, "colors":["red"]},
                     {"id":228, "colors":["blue"]},
@@ -511,7 +511,7 @@
                     {"id":230, "colors":["purple"]},
                     {"id":231, "colors":["blue"]},
                     {"id":232, "colors":["pink"]},
-                    {"id":223, "colors":["brown"]},
+                    {"id":233, "colors":["brown"]},
                     {"id":234, "colors":["black"]},
                     {"id":235, "colors":["white"]},
                     {"id":236, "colors":["yellow"]}
