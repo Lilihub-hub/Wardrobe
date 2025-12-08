@@ -20779,5 +20779,23 @@
             {"id":12057, "colors":["green"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12038, "zone":"head", "category":"wig", "security":"381548a82deafbfb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12038, "colors":["brown"]},
+            {"id":12039, "colors":["white"]},
+            {"id":12040, "colors":["black"]},
+            {"id":12041, "colors":["blue"]},
+            {"id":12042, "colors":["green"]},
+            {"id":12043, "colors":["purple"]},
+            {"id":12044, "colors":["red"]},
+            {"id":12045, "colors":["yellow"]},
+            {"id":12046, "colors":["orange"]},
+            {"id":12047, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
