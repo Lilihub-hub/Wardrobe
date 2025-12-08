@@ -20995,5 +20995,23 @@
             {"id":11927, "colors":["yellow"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11898, "zone":"torso", "category":"top", "security":"b93c3b7367aa9b3b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corset",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11898, "colors":["red"]},
+            {"id":11899, "colors":["blue"]},
+            {"id":11900, "colors":["green"]},
+            {"id":11901, "colors":["purple"]},
+            {"id":11902, "colors":["blue"]},
+            {"id":11903, "colors":["pink"]},
+            {"id":11904, "colors":["brown"]},
+            {"id":11905, "colors":["black"]},
+            {"id":11906, "colors":["white"]},
+            {"id":11907, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
