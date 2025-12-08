@@ -20905,5 +20905,23 @@
             {"id":11987, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11968, "zone":"waistToKnee", "category":"skirt", "security":"8fe03443caad8094", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Skirt",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11968, "colors":["white"]},
+            {"id":11969, "colors":["black"]},
+            {"id":11970, "colors":["yellow"]},
+            {"id":11971, "colors":["pink"]},
+            {"id":11972, "colors":["green"]},
+            {"id":11973, "colors":["green"]},
+            {"id":11974, "colors":["red"]},
+            {"id":11975, "colors":["blue"]},
+            {"id":11976, "colors":["purple"]},
+            {"id":11977, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
