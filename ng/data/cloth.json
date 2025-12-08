@@ -21015,7 +21015,7 @@
         "releaseDate":"2025-12-08"
     },
     {
-        "groupId":11938, "zone":"torso", "category":"jacket", "security":"80c716c5a58c0a05", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":11938, "zone":"torso", "category":"jacket", "security":"80c716c5a58c0a05", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Feathers",
         "outfitName":"Muse du Moulin Rouge",
         "variations":[
@@ -21035,6 +21035,24 @@
     {
         "groupId":11908, "zone":"torso_waistToKnee", "category":"waist", "security":"7283daa787138cb0", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Traîne",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11908, "colors":["red"]},
+            {"id":11909, "colors":["blue"]},
+            {"id":11910, "colors":["green"]},
+            {"id":11911, "colors":["purple"]},
+            {"id":11912, "colors":["blue"]},
+            {"id":11913, "colors":["pink"]},
+            {"id":11914, "colors":["brown"]},
+            {"id":11915, "colors":["black"]},
+            {"id":11916, "colors":["white"]},
+            {"id":11917, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11908, "zone":"torso_waistToKnee", "category":"underwear", "security":"47fe5803df455394", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Underwear",
         "outfitName":"Muse du Moulin Rouge",
         "variations":[
             {"id":11908, "colors":["red"]},
