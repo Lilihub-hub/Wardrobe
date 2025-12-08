@@ -20799,20 +20799,20 @@
         "releaseDate":"2025-12-08"
     },
     {
-        "groupId":12028, "zone":"head", "category":"earring", "security":"e6eb096e53ded3be", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":12028, "zone":"head", "category":"earring", "security":"e6eb096e53ded3be", "multiLayered":true, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"Veil of the Scarab",
         "variations":[
             {"id":12028, "colors":["brown"]},
-            {"id":12039, "colors":["grey"]},
-            {"id":12040, "colors":["yellow"]},
-            {"id":12041, "colors":["white"]},
-            {"id":12042, "colors":["black"]},
-            {"id":12043, "colors":["green"]},
-            {"id":12044, "colors":["red"]},
-            {"id":12045, "colors":["pink"]},
-            {"id":12046, "colors":["purple"]},
-            {"id":12047, "colors":["red"]}
+            {"id":12029, "colors":["grey"]},
+            {"id":12030, "colors":["yellow"]},
+            {"id":12031, "colors":["white"]},
+            {"id":12032, "colors":["black"]},
+            {"id":12033, "colors":["green"]},
+            {"id":12034, "colors":["red"]},
+            {"id":12035, "colors":["pink"]},
+            {"id":12036, "colors":["purple"]},
+            {"id":12037, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
     }
