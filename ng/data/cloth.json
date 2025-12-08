@@ -20851,5 +20851,23 @@
             {"id":11997, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11998, "zone":"torso", "category":"jacket", "security":"c730448403571972", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Jacket",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11998, "colors":["green"]},
+            {"id":11999, "colors":["red"]},
+            {"id":12000, "colors":["blue"]},
+            {"id":12001, "colors":["purple"]},
+            {"id":12002, "colors":["brown"]},
+            {"id":12003, "colors":["white"]},
+            {"id":12004, "colors":["black"]},
+            {"id":12005, "colors":["yellow"]},
+            {"id":12006, "colors":["pink"]},
+            {"id":12007, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
