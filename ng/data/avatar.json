@@ -505,16 +505,16 @@
                 "name":"Ojos",
                 "outfitName":"Muse du Moulin Rouge",
                 "variations":[
-                    {"id":217, "colors":["red"]},
-                    {"id":218, "colors":["blue"]},
-                    {"id":219, "colors":["green"]},
-                    {"id":220, "colors":["purple"]},
-                    {"id":221, "colors":["blue"]},
-                    {"id":222, "colors":["pink"]},
+                    {"id":227, "colors":["red"]},
+                    {"id":228, "colors":["blue"]},
+                    {"id":229, "colors":["green"]},
+                    {"id":230, "colors":["purple"]},
+                    {"id":231, "colors":["blue"]},
+                    {"id":232, "colors":["pink"]},
                     {"id":223, "colors":["brown"]},
-                    {"id":224, "colors":["black"]},
-                    {"id":225, "colors":["white"]},
-                    {"id":226, "colors":["yellow"]}
+                    {"id":234, "colors":["black"]},
+                    {"id":235, "colors":["white"]},
+                    {"id":236, "colors":["yellow"]}
                 ], "criteria":null,
                 "releaseDate":"2025-12-08"
             }
