@@ -20941,5 +20941,23 @@
             {"id":11967, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11948, "zone":"head", "category":"hat", "security":"a1081db8693c39da", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Muse du Moulin Rouge",
+        "variations":[
+            {"id":11948, "colors":["red"]},
+            {"id":11948, "colors":["blue"]},
+            {"id":11950, "colors":["green"]},
+            {"id":11950, "colors":["purple"]},
+            {"id":11950, "colors":["blue"]},
+            {"id":11950, "colors":["pink"]},
+            {"id":11950, "colors":["brown"]},
+            {"id":11950, "colors":["black"]},
+            {"id":11950, "colors":["white"]},
+            {"id":11950, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
