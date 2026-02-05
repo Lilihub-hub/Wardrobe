@@ -21992,5 +21992,23 @@
             {"id":12738, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12869, "zone":"head", "category":"faceAccessory", "security":"89cc13c5ef21884b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mask",
+        "outfitName":"A dance of Fire",
+        "variations":[
+            {"id":12869, "colors":["green","blue","golden"]},
+            {"id":12870, "colors":["red","golden"]},
+            {"id":12871, "colors":["golden","blue","yellow"]},
+            {"id":12872, "colors":["silver","white","yellow"]},
+            {"id":12873, "colors":["pink","purple","golden"]},
+            {"id":12874, "colors":["silver","black","blue"]},
+            {"id":12875, "colors":["silver","yellow","red"]},
+            {"id":12876, "colors":["silver","purple","blue"]},
+            {"id":12877, "colors":["silver","blue","green"]},
+            {"id":12878, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
 ]
