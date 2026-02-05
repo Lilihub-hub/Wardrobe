@@ -22171,5 +22171,23 @@
             {"id":12628, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12569, "zone":"face", "category":"neckAccessory", "security":"82ffe1d9941b3d31", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"A dance of Serpents",
+        "variations":[
+            {"id":12569, "colors":["green","blue","golden"]},
+            {"id":12570, "colors":["red","golden"]},
+            {"id":12571, "colors":["golden","blue","yellow"]},
+            {"id":12572, "colors":["silver","white","yellow"]},
+            {"id":12573, "colors":["pink","purple","golden"]},
+            {"id":12574, "colors":["silver","black","blue"]},
+            {"id":12575, "colors":["silver","yellow","red"]},
+            {"id":12576, "colors":["silver","purple","blue"]},
+            {"id":12577, "colors":["silver","blue","green"]},
+            {"id":12578, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
 ]
