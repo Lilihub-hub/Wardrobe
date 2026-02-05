@@ -22101,4 +22101,21 @@
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
     }
+        "groupId":12919, "zone":"head", "category":"earring", "security":"2df40fd9c2183ad8", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12919, "colors":["green","blue","golden"]},
+            {"id":12920, "colors":["red","golden"]},
+            {"id":12921, "colors":["golden","blue","yellow"]},
+            {"id":12922, "colors":["silver","white","yellow"]},
+            {"id":12923, "colors":["pink","purple","golden"]},
+            {"id":12924, "colors":["silver","black","blue"]},
+            {"id":12925, "colors":["silver","yellow","red"]},
+            {"id":12926, "colors":["silver","purple","blue"]},
+            {"id":12927, "colors":["silver","blue","green"]},
+            {"id":12928, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Free Valentine outfit 2026"},
+        "releaseDate":"2026-02-03"
+    }
 ]
