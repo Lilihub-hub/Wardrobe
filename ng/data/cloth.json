@@ -22046,5 +22046,24 @@
             {"id":12748, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12659, "zone":"head", "category":"faceAccessory", "security":"9318ac48c59ed03a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mask",
+        "outfitName":"A dance of the Sky",
+        "variations":[
+            {"id":12659, "colors":["green","blue","golden"]},
+            {"id":12660, "colors":["red","golden"]},
+            {"id":12661, "colors":["golden","blue","yellow"]},
+            {"id":12662, "colors":["silver","white","yellow"]},
+            {"id":12663, "colors":["pink","purple","golden"]},
+            {"id":12664, "colors":["silver","black","blue"]},
+            {"id":12665, "colors":["silver","yellow","red"]},
+            {"id":12666, "colors":["silver","purple","blue"]},
+            {"id":12667, "colors":["silver","blue","green"]},
+            {"id":12668, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
+
 ]
