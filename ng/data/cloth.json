@@ -21974,5 +21974,23 @@
             {"id":12528, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"},
         "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12729, "zone":"head", "category":"hat", "security":"7ed7c4c42327cebc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tiara",
+        "outfitName":"A dance of Nightfall",
+        "variations":[
+            {"id":12729, "colors":["green","blue","golden"]},
+            {"id":12730, "colors":["red","golden"]},
+            {"id":12731, "colors":["golden","blue","yellow"]},
+            {"id":12732, "colors":["silver","white","yellow"]},
+            {"id":12733, "colors":["pink","purple","golden"]},
+            {"id":12734, "colors":["silver","black","blue"]},
+            {"id":12735, "colors":["silver","yellow","red"]},
+            {"id":12736, "colors":["silver","purple","blue"]},
+            {"id":12737, "colors":["silver","blue","green"]},
+            {"id":12738, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
 ]
