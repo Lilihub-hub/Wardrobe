@@ -22153,5 +22153,23 @@
             {"id":12808, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12619, "zone":"face", "category":"neckAccessory", "security":"d2aaa558ccf10a2c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"A dance of the Sky",
+        "variations":[
+            {"id":12619, "colors":["green","blue","golden"]},
+            {"id":12620, "colors":["red","golden"]},
+            {"id":12621, "colors":["golden","blue","yellow"]},
+            {"id":12622, "colors":["silver","white","yellow"]},
+            {"id":12623, "colors":["pink","purple","golden"]},
+            {"id":12624, "colors":["silver","black","blue"]},
+            {"id":12625, "colors":["silver","yellow","red"]},
+            {"id":12626, "colors":["silver","purple","blue"]},
+            {"id":12627, "colors":["silver","blue","green"]},
+            {"id":12628, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
 ]
