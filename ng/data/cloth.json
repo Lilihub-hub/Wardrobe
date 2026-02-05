@@ -22120,7 +22120,7 @@
     },
     {
         "groupId":12849, "zone":"face", "category":"neckAccessory", "security":"217c9b43e59b951d", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Earrings",
+        "name":"Necklace",
         "outfitName":"A dance of Fire",
         "variations":[
             {"id":12849, "colors":["green","blue","golden"]},
@@ -22133,6 +22133,24 @@
             {"id":12856, "colors":["silver","purple","blue"]},
             {"id":12857, "colors":["silver","blue","green"]},
             {"id":12858, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12799, "zone":"face", "category":"neckAccessory", "security":"7be5dae6bf6aa03c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"A dance of Remembrance",
+        "variations":[
+            {"id":12799, "colors":["green","blue","golden"]},
+            {"id":12800, "colors":["red","golden"]},
+            {"id":12801, "colors":["golden","blue","yellow"]},
+            {"id":12802, "colors":["silver","white","yellow"]},
+            {"id":12803, "colors":["pink","purple","golden"]},
+            {"id":12804, "colors":["silver","black","blue"]},
+            {"id":12805, "colors":["silver","yellow","red"]},
+            {"id":12806, "colors":["silver","purple","blue"]},
+            {"id":12807, "colors":["silver","blue","green"]},
+            {"id":12808, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
     }
