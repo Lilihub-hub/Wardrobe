@@ -22064,6 +22064,23 @@
             {"id":12668, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12589, "zone":"head", "category":"faceAccessory", "security":"97444ffab46700fe", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mask",
+        "outfitName":"A dance of Serpents",
+        "variations":[
+            {"id":12589, "colors":["green","blue","golden"]},
+            {"id":12590, "colors":["red","golden"]},
+            {"id":12591, "colors":["golden","blue","yellow"]},
+            {"id":12592, "colors":["silver","white","yellow"]},
+            {"id":12593, "colors":["pink","purple","golden"]},
+            {"id":12594, "colors":["silver","black","blue"]},
+            {"id":12595, "colors":["silver","yellow","red"]},
+            {"id":12596, "colors":["silver","purple","blue"]},
+            {"id":12597, "colors":["silver","blue","green"]},
+            {"id":12598, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
-
 ]
