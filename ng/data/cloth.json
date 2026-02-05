@@ -22117,5 +22117,23 @@
             {"id":12928, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Free Valentine outfit 2026"},
         "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12849, "zone":"face", "category":"neckAccessory", "security":"217c9b43e59b951d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"A dance of Fire",
+        "variations":[
+            {"id":12849, "colors":["green","blue","golden"]},
+            {"id":12850, "colors":["red","golden"]},
+            {"id":12851, "colors":["golden","blue","yellow"]},
+            {"id":12852, "colors":["silver","white","yellow"]},
+            {"id":12853, "colors":["pink","purple","golden"]},
+            {"id":12854, "colors":["silver","black","blue"]},
+            {"id":12855, "colors":["silver","yellow","red"]},
+            {"id":12856, "colors":["silver","purple","blue"]},
+            {"id":12857, "colors":["silver","blue","green"]},
+            {"id":12858, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
 ]
