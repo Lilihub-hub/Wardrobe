@@ -22010,5 +22010,23 @@
             {"id":12878, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12809, "zone":"head", "category":"faceAccessory", "security":"c934a74914d645b3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mask",
+        "outfitName":"A dance of Remambrance",
+        "variations":[
+            {"id":12809, "colors":["green","blue","golden"]},
+            {"id":12810, "colors":["red","golden"]},
+            {"id":12811, "colors":["golden","blue","yellow"]},
+            {"id":12812, "colors":["silver","white","yellow"]},
+            {"id":12813, "colors":["pink","purple","golden"]},
+            {"id":12814, "colors":["silver","black","blue"]},
+            {"id":12815, "colors":["silver","yellow","red"]},
+            {"id":12816, "colors":["silver","purple","blue"]},
+            {"id":12817, "colors":["silver","blue","green"]},
+            {"id":12818, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
 ]
