@@ -22082,5 +22082,23 @@
             {"id":12598, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12719, "zone":"head", "category":"earring", "security":"d40ea90f374c70cb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"A dance of Nightfall",
+        "variations":[
+            {"id":12719, "colors":["green","blue","golden"]},
+            {"id":12720, "colors":["red","golden"]},
+            {"id":12721, "colors":["golden","blue","yellow"]},
+            {"id":12722, "colors":["silver","white","yellow"]},
+            {"id":12723, "colors":["pink","purple","golden"]},
+            {"id":12724, "colors":["silver","black","blue"]},
+            {"id":12725, "colors":["silver","yellow","red"]},
+            {"id":12726, "colors":["silver","purple","blue"]},
+            {"id":12727, "colors":["silver","blue","green"]},
+            {"id":12728, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
 ]
