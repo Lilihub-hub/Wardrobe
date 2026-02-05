@@ -22028,5 +22028,23 @@
             {"id":12818, "colors":["golden","blue","pink"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
         "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":12739, "zone":"head", "category":"faceAccessory", "security":"2d6622d78cef747a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mask",
+        "outfitName":"A dance of Nightfall",
+        "variations":[
+            {"id":12739, "colors":["green","blue","golden"]},
+            {"id":12740, "colors":["red","golden"]},
+            {"id":12741, "colors":["golden","blue","yellow"]},
+            {"id":12742, "colors":["silver","white","yellow"]},
+            {"id":12743, "colors":["pink","purple","golden"]},
+            {"id":12744, "colors":["silver","black","blue"]},
+            {"id":12745, "colors":["silver","yellow","red"]},
+            {"id":12746, "colors":["silver","purple","blue"]},
+            {"id":12747, "colors":["silver","blue","green"]},
+            {"id":12748, "colors":["golden","blue","pink"]}
+        ], "criteria":{"type":"episode", "info":"23", "text":"Unlock in episode 23"},
+        "releaseDate":"2026-01-30"
     }
 ]
