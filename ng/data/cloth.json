@@ -31524,5 +31524,23 @@
             {"id":18710, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":17307, "zone":"head", "category":"earring", "security":"d84ec8d2fa384d75", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17307, "colors":["pink"]},
+            {"id":17308, "colors":["black"]},
+            {"id":17309, "colors":["white"]},
+            {"id":17310, "colors":["purple"]},
+            {"id":17311, "colors":["blue"]},
+            {"id":17312, "colors":["green"]},
+            {"id":17313, "colors":["red"]},
+            {"id":17314, "colors":["brown"]},
+            {"id":17315, "colors":["yellow"]},
+            {"id":17316, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
