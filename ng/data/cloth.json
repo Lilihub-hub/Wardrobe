@@ -31668,5 +31668,23 @@
             {"id":17286, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17337, "zone":"waistToKnee", "category":"skirt", "security":"65a87b55ecfb1ed7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17337, "colors":["pink"]},
+            {"id":17338, "colors":["black"]},
+            {"id":17339, "colors":["white"]},
+            {"id":17340, "colors":["purple"]},
+            {"id":17341, "colors":["blue"]},
+            {"id":17342, "colors":["green"]},
+            {"id":17343, "colors":["red"]},
+            {"id":17344, "colors":["brown"]},
+            {"id":17345, "colors":["yellow"]},
+            {"id":17346, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
