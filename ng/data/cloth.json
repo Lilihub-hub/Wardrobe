@@ -31436,7 +31436,7 @@
         "releaseDate":"2026-09-15"
     },
     {
-        "groupId":18681, "zone":"torso_waistToKnee", "category":"waist", "security":"84ab6c92b5d2cfdf", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":18681, "zone":"torso_waistToKnee", "category":"waist", "security":"84ab6c92b5d2cfdf", "multiLayered":true, "layerBehavior":"normal",
         "name":"Shawl",
         "outfitName":"Witch Next Door",
         "variations":[
