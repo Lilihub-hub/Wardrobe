@@ -31580,7 +31580,7 @@
         "releaseDate":"2026-09-18"
     },
     {
-        "groupId":17347, "zone":"torso", "category":"top", "security":"a1b787062633f936", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":17347, "zone":"torso", "category":"top", "security":"a1b787062633f936", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Top",
         "outfitName":"Strong Push",
         "variations":[
