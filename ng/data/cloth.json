@@ -31398,5 +31398,23 @@
             {"id":18730, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18711, "zone":"torso", "category":"top", "security":"d89c5c974744cb8d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18711, "colors":["pink"]},
+            {"id":18712, "colors":["black"]},
+            {"id":18713, "colors":["white"]},
+            {"id":18714, "colors":["purple"]},
+            {"id":18715, "colors":["blue"]},
+            {"id":18716, "colors":["green"]},
+            {"id":18717, "colors":["red"]},
+            {"id":18718, "colors":["brown"]},
+            {"id":18719, "colors":["yellow"]},
+            {"id":18720, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-15"
     }
 ]
