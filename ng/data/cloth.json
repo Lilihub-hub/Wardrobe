@@ -31452,5 +31452,23 @@
             {"id":18690, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18731, "zone":"arms", "category":"bag", "security":"0c530311c0529411", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Potion",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18731, "colors":["pink"]},
+            {"id":18732, "colors":["black"]},
+            {"id":18733, "colors":["white"]},
+            {"id":18734, "colors":["purple"]},
+            {"id":18735, "colors":["blue"]},
+            {"id":18736, "colors":["green"]},
+            {"id":18737, "colors":["red"]},
+            {"id":18738, "colors":["brown"]},
+            {"id":18739, "colors":["yellow"]},
+            {"id":18740, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-15"
     }
 ]
