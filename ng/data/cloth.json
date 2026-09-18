@@ -31506,5 +31506,23 @@
             {"id":18670, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18701, "zone":"general", "category":"other", "security":"c7422039af6e8388", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cat",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18701, "colors":["pink"]},
+            {"id":18702, "colors":["black"]},
+            {"id":18703, "colors":["white"]},
+            {"id":18704, "colors":["purple"]},
+            {"id":18705, "colors":["blue"]},
+            {"id":18706, "colors":["green"]},
+            {"id":18707, "colors":["red"]},
+            {"id":18708, "colors":["brown"]},
+            {"id":18709, "colors":["yellow"]},
+            {"id":18710, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-15"
     }
 ]
