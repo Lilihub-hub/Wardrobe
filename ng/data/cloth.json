@@ -31578,5 +31578,23 @@
             {"id":17276, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17347, "zone":"torso", "category":"top", "security":"a1b787062633f936", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17347, "colors":["pink"]},
+            {"id":17348, "colors":["black"]},
+            {"id":17349, "colors":["white"]},
+            {"id":17350, "colors":["purple"]},
+            {"id":17351, "colors":["blue"]},
+            {"id":17352, "colors":["green"]},
+            {"id":17353, "colors":["red"]},
+            {"id":17354, "colors":["brown"]},
+            {"id":17355, "colors":["yellow"]},
+            {"id":17356, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
