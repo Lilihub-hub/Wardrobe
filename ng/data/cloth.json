@@ -31650,5 +31650,23 @@
             {"id":17366, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17277, "zone":"waistToKnee", "category":"pants", "security":"dfd34745ff09cf80", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shorts",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17277, "colors":["pink"]},
+            {"id":17278, "colors":["black"]},
+            {"id":17279, "colors":["white"]},
+            {"id":17280, "colors":["purple"]},
+            {"id":17281, "colors":["blue"]},
+            {"id":17282, "colors":["green"]},
+            {"id":17283, "colors":["red"]},
+            {"id":17284, "colors":["brown"]},
+            {"id":17285, "colors":["yellow"]},
+            {"id":17286, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
