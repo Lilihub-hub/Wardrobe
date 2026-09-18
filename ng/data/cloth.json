@@ -31400,7 +31400,7 @@
         "releaseDate":"2026-09-15"
     },
     {
-        "groupId":18711, "zone":"torso", "category":"top", "security":"d89c5c974744cb8d", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":18711, "zone":"torso", "category":"top", "security":"d89c5c974744cb8d", "multiLayered":true, "layerBehavior":"normal",
         "name":"Necklace",
         "outfitName":"Witch Next Door",
         "variations":[
