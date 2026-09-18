@@ -31632,5 +31632,23 @@
             {"id":17306, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17357, "zone":"arms", "category":"bag", "security":"1528d12acdc1de43", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bag",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17357, "colors":["pink"]},
+            {"id":17358, "colors":["black"]},
+            {"id":17359, "colors":["white"]},
+            {"id":17360, "colors":["purple"]},
+            {"id":17361, "colors":["blue"]},
+            {"id":17362, "colors":["green"]},
+            {"id":17363, "colors":["red"]},
+            {"id":17364, "colors":["brown"]},
+            {"id":17365, "colors":["yellow"]},
+            {"id":17366, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
