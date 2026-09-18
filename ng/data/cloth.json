@@ -31488,5 +31488,23 @@
             {"id":18680, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18661, "zone":"feet", "category":"shoes", "security":"349b54b88ad663e5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18661, "colors":["pink"]},
+            {"id":18662, "colors":["black"]},
+            {"id":18663, "colors":["white"]},
+            {"id":18664, "colors":["purple"]},
+            {"id":18665, "colors":["blue"]},
+            {"id":18666, "colors":["green"]},
+            {"id":18667, "colors":["red"]},
+            {"id":18668, "colors":["brown"]},
+            {"id":18669, "colors":["yellow"]},
+            {"id":18670, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-15"
     }
 ]
