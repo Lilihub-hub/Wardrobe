@@ -31704,5 +31704,23 @@
             {"id":17266, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17257, "zone":"feet", "category":"shoes", "security":"6dcc46b7820a24b3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17257, "colors":["pink"]},
+            {"id":17258, "colors":["black"]},
+            {"id":17259, "colors":["white"]},
+            {"id":17260, "colors":["purple"]},
+            {"id":17261, "colors":["blue"]},
+            {"id":17262, "colors":["green"]},
+            {"id":17263, "colors":["red"]},
+            {"id":17264, "colors":["brown"]},
+            {"id":17265, "colors":["yellow"]},
+            {"id":17266, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
