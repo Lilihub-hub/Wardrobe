@@ -31418,7 +31418,7 @@
         "releaseDate":"2026-09-15"
     },
     {
-        "groupId":18691, "zone":"torso_waistToKnee", "category":"waist", "security":"5de897bfc1aff2d7", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":18691, "zone":"torso_waistToKnee", "category":"waist", "security":"5de897bfc1aff2d7", "multiLayered":false, "layerBehavior":"normal",
         "name":"Belt",
         "outfitName":"Witch Next Door",
         "variations":[
