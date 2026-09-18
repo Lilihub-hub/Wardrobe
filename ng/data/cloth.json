@@ -31470,5 +31470,23 @@
             {"id":18740, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18671, "zone":"waistToKnee", "category":"skirt", "security":"e672ffdfd424222d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18671, "colors":["pink"]},
+            {"id":18672, "colors":["black"]},
+            {"id":18673, "colors":["white"]},
+            {"id":18674, "colors":["purple"]},
+            {"id":18675, "colors":["blue"]},
+            {"id":18676, "colors":["green"]},
+            {"id":18677, "colors":["red"]},
+            {"id":18678, "colors":["brown"]},
+            {"id":18679, "colors":["yellow"]},
+            {"id":18680, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-15"
     }
 ]
