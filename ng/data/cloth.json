@@ -31544,7 +31544,7 @@
         "releaseDate":"2026-09-18"
     },
     {
-        "groupId":17367, "zone":"head", "category":"earring", "security":"72ce9e96b63b8dd8", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":17367, "zone":"head", "category":"earring", "security":"72ce9e96b63b8dd8", "multiLayered":true, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"Strong Push",
         "variations":[
