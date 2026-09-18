@@ -31560,5 +31560,23 @@
             {"id":17376, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17267, "zone":"torso", "category":"top", "security":"cd2abade2e00b890", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17267, "colors":["pink"]},
+            {"id":17268, "colors":["black"]},
+            {"id":17269, "colors":["white"]},
+            {"id":17270, "colors":["purple"]},
+            {"id":17271, "colors":["blue"]},
+            {"id":17272, "colors":["green"]},
+            {"id":17273, "colors":["red"]},
+            {"id":17274, "colors":["brown"]},
+            {"id":17275, "colors":["yellow"]},
+            {"id":17276, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
