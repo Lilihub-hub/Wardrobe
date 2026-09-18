@@ -31344,5 +31344,23 @@
             {"id":18272, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-02"
+    },
+    {
+        "groupId":18263, "zone":"head", "category":"wig", "security":"45a774c4a7ed67b4", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18751, "colors":["pink"]},
+            {"id":18752, "colors":["black"]},
+            {"id":18753, "colors":["white"]},
+            {"id":18754, "colors":["purple"]},
+            {"id":18755, "colors":["blue"]},
+            {"id":18756, "colors":["green"]},
+            {"id":18757, "colors":["red"]},
+            {"id":18758, "colors":["brown"]},
+            {"id":18759, "colors":["yellow"]},
+            {"id":18760, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-15"
     }
 ]
