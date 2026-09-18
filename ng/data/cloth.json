@@ -31596,5 +31596,23 @@
             {"id":17356, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17287, "zone":"torso", "category":"jacket", "security":"13ede06dfb3f9aa2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blazer",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17287, "colors":["pink"]},
+            {"id":17288, "colors":["black"]},
+            {"id":17289, "colors":["white"]},
+            {"id":17290, "colors":["purple"]},
+            {"id":17291, "colors":["blue"]},
+            {"id":17292, "colors":["green"]},
+            {"id":17293, "colors":["red"]},
+            {"id":17294, "colors":["brown"]},
+            {"id":17295, "colors":["yellow"]},
+            {"id":17296, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
