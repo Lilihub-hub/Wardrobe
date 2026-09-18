@@ -31364,7 +31364,7 @@
         "releaseDate":"2026-09-15"
     },
     {
-        "groupId":18741, "zone":"head", "category":"earring", "security":"83f1d28c95ab91ea", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":18741, "zone":"head", "category":"earring", "security":"83f1d28c95ab91ea", "multiLayered":true, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"Witch Next Door",
         "variations":[
