@@ -31598,7 +31598,7 @@
         "releaseDate":"2026-09-18"
     },
     {
-        "groupId":17287, "zone":"torso", "category":"jacket", "security":"13ede06dfb3f9aa2", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":17287, "zone":"torso", "category":"jacket", "security":"13ede06dfb3f9aa2", "multiLayered":true, "layerBehavior":"normal",
         "name":"Blazer",
         "outfitName":"Soft Push",
         "variations":[
