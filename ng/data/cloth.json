@@ -31706,20 +31706,20 @@
         "releaseDate":"2026-09-18"
     },
     {
-        "groupId":17257, "zone":"feet", "category":"shoes", "security":"6dcc46b7820a24b3", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Shoes",
+        "groupId":17327, "zone":"feet", "category":"shoes", "security":"6dcc46b7820a24b3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Heels",
         "outfitName":"Strong Push",
         "variations":[
-            {"id":17257, "colors":["pink"]},
-            {"id":17258, "colors":["black"]},
-            {"id":17259, "colors":["white"]},
-            {"id":17260, "colors":["purple"]},
-            {"id":17261, "colors":["blue"]},
-            {"id":17262, "colors":["green"]},
-            {"id":17263, "colors":["red"]},
-            {"id":17264, "colors":["brown"]},
-            {"id":17265, "colors":["yellow"]},
-            {"id":17266, "colors":["grey"]}
+            {"id":17327, "colors":["pink"]},
+            {"id":17328, "colors":["black"]},
+            {"id":17329, "colors":["white"]},
+            {"id":17330, "colors":["purple"]},
+            {"id":17331, "colors":["blue"]},
+            {"id":17332, "colors":["green"]},
+            {"id":17333, "colors":["red"]},
+            {"id":17334, "colors":["brown"]},
+            {"id":17335, "colors":["yellow"]},
+            {"id":17336, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
     }
