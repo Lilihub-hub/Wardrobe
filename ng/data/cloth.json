@@ -31380,5 +31380,23 @@
             {"id":18750, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18721, "zone":"face", "category":"neckAccessory", "security":"5b8a8da7389ed0ba", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Witch Next Door",
+        "variations":[
+            {"id":18721, "colors":["pink"]},
+            {"id":18722, "colors":["black"]},
+            {"id":18723, "colors":["white"]},
+            {"id":18724, "colors":["purple"]},
+            {"id":18725, "colors":["blue"]},
+            {"id":18726, "colors":["green"]},
+            {"id":18727, "colors":["red"]},
+            {"id":18728, "colors":["brown"]},
+            {"id":18729, "colors":["yellow"]},
+            {"id":18730, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-15"
     }
 ]
