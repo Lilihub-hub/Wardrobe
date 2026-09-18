@@ -31614,5 +31614,23 @@
             {"id":17296, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17297, "zone":"arms", "category":"bag", "security":"a345e2a16c8aa7f2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bag",
+        "outfitName":"Soft Push",
+        "variations":[
+            {"id":17297, "colors":["pink"]},
+            {"id":17298, "colors":["black"]},
+            {"id":17299, "colors":["white"]},
+            {"id":17300, "colors":["purple"]},
+            {"id":17301, "colors":["blue"]},
+            {"id":17302, "colors":["green"]},
+            {"id":17303, "colors":["red"]},
+            {"id":17304, "colors":["brown"]},
+            {"id":17305, "colors":["yellow"]},
+            {"id":17306, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
