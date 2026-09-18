@@ -31722,5 +31722,23 @@
             {"id":17336, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":17317, "zone":"feet", "category":"socks", "security":"40938bdbb25a560f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tights",
+        "outfitName":"Strong Push",
+        "variations":[
+            {"id":17317, "colors":["pink"]},
+            {"id":17318, "colors":["black"]},
+            {"id":17319, "colors":["white"]},
+            {"id":17320, "colors":["purple"]},
+            {"id":17321, "colors":["blue"]},
+            {"id":17322, "colors":["green"]},
+            {"id":17323, "colors":["red"]},
+            {"id":17324, "colors":["brown"]},
+            {"id":17325, "colors":["yellow"]},
+            {"id":17326, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-09-18"
     }
 ]
