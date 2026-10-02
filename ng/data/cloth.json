@@ -31902,5 +31902,23 @@
             {"id":18810, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18771, "zone":"waistToKnee", "category":"skirt", "security":"e7354f64ca7eedf7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Mini pretty in pink",
+        "variations":[
+            {"id":18771, "colors":["pink"]},
+            {"id":18772, "colors":["black"]},
+            {"id":18773, "colors":["white"]},
+            {"id":18774, "colors":["purple"]},
+            {"id":18775, "colors":["blue"]},
+            {"id":18776, "colors":["green"]},
+            {"id":18777, "colors":["red"]},
+            {"id":18778, "colors":["brown"]},
+            {"id":18779, "colors":["yellow"]},
+            {"id":18780, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
