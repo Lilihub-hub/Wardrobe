@@ -31776,5 +31776,23 @@
             {"id":18880, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18821, "zone":"face", "category":"neckAccessory", "security":"739626f69d3f6883", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bow",
+        "outfitName":"The pink ribbon",
+        "variations":[
+            {"id":18821, "colors":["pink"]},
+            {"id":18822, "colors":["black"]},
+            {"id":18823, "colors":["white"]},
+            {"id":18824, "colors":["purple"]},
+            {"id":18825, "colors":["blue"]},
+            {"id":18826, "colors":["green"]},
+            {"id":18827, "colors":["red"]},
+            {"id":18828, "colors":["brown"]},
+            {"id":18829, "colors":["yellow"]},
+            {"id":18830, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
