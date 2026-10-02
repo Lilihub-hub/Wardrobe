@@ -31812,5 +31812,23 @@
             {"id":18800, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18851, "zone":"torso", "category":"top", "security":"421d2429e75a5efa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blouse",
+        "outfitName":"Back to school",
+        "variations":[
+            {"id":18851, "colors":["pink"]},
+            {"id":18852, "colors":["black"]},
+            {"id":18853, "colors":["white"]},
+            {"id":18854, "colors":["purple"]},
+            {"id":18855, "colors":["blue"]},
+            {"id":18856, "colors":["green"]},
+            {"id":18857, "colors":["red"]},
+            {"id":18858, "colors":["brown"]},
+            {"id":18859, "colors":["yellow"]},
+            {"id":18860, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
