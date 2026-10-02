@@ -31740,5 +31740,23 @@
             {"id":17326, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-09-18"
+    },
+    {
+        "groupId":18811, "zone":"head", "category":"wig", "security":"8f79d4182bb9fc49", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Mini pretty in pink",
+        "variations":[
+            {"id":18811, "colors":["pink"]},
+            {"id":18812, "colors":["black"]},
+            {"id":18813, "colors":["white"]},
+            {"id":18814, "colors":["purple"]},
+            {"id":18815, "colors":["blue"]},
+            {"id":18816, "colors":["green"]},
+            {"id":18817, "colors":["red"]},
+            {"id":18818, "colors":["brown"]},
+            {"id":18819, "colors":["yellow"]},
+            {"id":18820, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
