@@ -31830,5 +31830,23 @@
             {"id":18860, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18781, "zone":"torso", "category":"top", "security":"ded166216ccb1af6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Mini pretty in pink",
+        "variations":[
+            {"id":18781, "colors":["pink"]},
+            {"id":18882, "colors":["black"]},
+            {"id":18883, "colors":["white"]},
+            {"id":18884, "colors":["purple"]},
+            {"id":18885, "colors":["blue"]},
+            {"id":18886, "colors":["green"]},
+            {"id":18887, "colors":["red"]},
+            {"id":18888, "colors":["brown"]},
+            {"id":18889, "colors":["yellow"]},
+            {"id":18890, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
