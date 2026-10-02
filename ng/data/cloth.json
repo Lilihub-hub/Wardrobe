@@ -31920,5 +31920,23 @@
             {"id":18780, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18761, "zone":"feet", "category":"shoes", "security":"b70e47c3ac02f29f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flats",
+        "outfitName":"Mini pretty in pink",
+        "variations":[
+            {"id":18761, "colors":["pink"]},
+            {"id":18762, "colors":["black"]},
+            {"id":18763, "colors":["white"]},
+            {"id":18764, "colors":["purple"]},
+            {"id":18765, "colors":["blue"]},
+            {"id":18766, "colors":["green"]},
+            {"id":18767, "colors":["red"]},
+            {"id":18768, "colors":["brown"]},
+            {"id":18769, "colors":["yellow"]},
+            {"id":18770, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
