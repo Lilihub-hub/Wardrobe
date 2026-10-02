@@ -31837,15 +31837,15 @@
         "outfitName":"Mini pretty in pink",
         "variations":[
             {"id":18781, "colors":["pink"]},
-            {"id":18882, "colors":["black"]},
-            {"id":18883, "colors":["white"]},
-            {"id":18884, "colors":["purple"]},
-            {"id":18885, "colors":["blue"]},
-            {"id":18886, "colors":["green"]},
-            {"id":18887, "colors":["red"]},
-            {"id":18888, "colors":["brown"]},
-            {"id":18889, "colors":["yellow"]},
-            {"id":18890, "colors":["grey"]}
+            {"id":18782, "colors":["black"]},
+            {"id":18783, "colors":["white"]},
+            {"id":18784, "colors":["purple"]},
+            {"id":18785, "colors":["blue"]},
+            {"id":18786, "colors":["green"]},
+            {"id":18787, "colors":["red"]},
+            {"id":18788, "colors":["brown"]},
+            {"id":18789, "colors":["yellow"]},
+            {"id":18790, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
     },
