@@ -31884,5 +31884,23 @@
             {"id":18890, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18801, "zone":"arms", "category":"bag", "security":"022ea1965ca43f3d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bag",
+        "outfitName":"Mini pretty in pink",
+        "variations":[
+            {"id":18801, "colors":["pink"]},
+            {"id":18802, "colors":["black"]},
+            {"id":18803, "colors":["white"]},
+            {"id":18804, "colors":["purple"]},
+            {"id":18805, "colors":["blue"]},
+            {"id":18806, "colors":["green"]},
+            {"id":18807, "colors":["red"]},
+            {"id":18808, "colors":["brown"]},
+            {"id":18809, "colors":["yellow"]},
+            {"id":18810, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
