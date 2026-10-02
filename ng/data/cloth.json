@@ -31794,5 +31794,23 @@
             {"id":18830, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18791, "zone":"face", "category":"neckAccessory", "security":"ebd537b2b5108d99", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Scarf",
+        "outfitName":"Mini pretty in pink",
+        "variations":[
+            {"id":18791, "colors":["pink"]},
+            {"id":18792, "colors":["black"]},
+            {"id":18793, "colors":["white"]},
+            {"id":18794, "colors":["purple"]},
+            {"id":18795, "colors":["blue"]},
+            {"id":18796, "colors":["green"]},
+            {"id":18797, "colors":["red"]},
+            {"id":18798, "colors":["brown"]},
+            {"id":18799, "colors":["yellow"]},
+            {"id":18800, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
