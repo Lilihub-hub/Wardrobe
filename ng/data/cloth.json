@@ -31814,7 +31814,7 @@
         "releaseDate":"2026-10-01"
     },
     {
-        "groupId":18851, "zone":"torso", "category":"top", "security":"421d2429e75a5efa", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":18851, "zone":"torso", "category":"top", "security":"421d2429e75a5efa", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Blouse",
         "outfitName":"Back to school",
         "variations":[
