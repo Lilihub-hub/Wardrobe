@@ -31848,5 +31848,23 @@
             {"id":18890, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18861, "zone":"torso_waistToKnee", "category":"dress", "security":"fe227367fe1bba55", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Back to school",
+        "variations":[
+            {"id":18861, "colors":["pink"]},
+            {"id":18862, "colors":["black"]},
+            {"id":18863, "colors":["white"]},
+            {"id":18864, "colors":["purple"]},
+            {"id":18865, "colors":["blue"]},
+            {"id":18866, "colors":["green"]},
+            {"id":18867, "colors":["red"]},
+            {"id":18868, "colors":["brown"]},
+            {"id":18869, "colors":["yellow"]},
+            {"id":18870, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
