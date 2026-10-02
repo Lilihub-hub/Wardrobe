@@ -31758,5 +31758,23 @@
             {"id":18820, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18871, "zone":"face", "category":"neckAccessory", "security":"69e8424c4e50d47f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bow",
+        "outfitName":"Back to school",
+        "variations":[
+            {"id":18871, "colors":["pink"]},
+            {"id":18872, "colors":["black"]},
+            {"id":18873, "colors":["white"]},
+            {"id":18874, "colors":["purple"]},
+            {"id":18875, "colors":["blue"]},
+            {"id":18876, "colors":["green"]},
+            {"id":18877, "colors":["red"]},
+            {"id":18878, "colors":["brown"]},
+            {"id":18879, "colors":["yellow"]},
+            {"id":18880, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
