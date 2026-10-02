@@ -31956,5 +31956,23 @@
             {"id":18850, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18831, "zone":"feet", "category":"socks", "security":"eaaa9167279602ac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tights",
+        "outfitName":"Back to school",
+        "variations":[
+            {"id":18831, "colors":["pink"]},
+            {"id":18832, "colors":["black"]},
+            {"id":18833, "colors":["white"]},
+            {"id":18834, "colors":["purple"]},
+            {"id":18835, "colors":["blue"]},
+            {"id":18836, "colors":["green"]},
+            {"id":18837, "colors":["red"]},
+            {"id":18838, "colors":["brown"]},
+            {"id":18839, "colors":["yellow"]},
+            {"id":18840, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
