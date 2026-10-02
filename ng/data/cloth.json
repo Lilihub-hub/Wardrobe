@@ -31938,5 +31938,23 @@
             {"id":18770, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18841, "zone":"feet", "category":"shoes", "security":"991f79fb99d79564", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Back to school",
+        "variations":[
+            {"id":18841, "colors":["pink"]},
+            {"id":18842, "colors":["black"]},
+            {"id":18843, "colors":["white"]},
+            {"id":18844, "colors":["purple"]},
+            {"id":18845, "colors":["blue"]},
+            {"id":18846, "colors":["green"]},
+            {"id":18847, "colors":["red"]},
+            {"id":18848, "colors":["brown"]},
+            {"id":18849, "colors":["yellow"]},
+            {"id":18850, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-01"
     }
 ]
