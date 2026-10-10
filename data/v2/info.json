@@ -1655,5 +1655,12 @@
 	{"groupId":36559, "category":"accessory", "name":"-- Savage Waters"},
 	{"groupId":36569, "category":"purse", "name":"Tridente Savage Waters"},
 	{"groupId":36579, "category":"accessory", "name":"Guantes Savage Waters"},
-	{"groupId":36589, "category":"accessory", "name":"Agua Savage Waters"}
+	{"groupId":36589, "category":"accessory", "name":"Agua Savage Waters"},
+	{"groupId":36599, "category":"socks", "name":"Medias Little Coquette"},
+	{"groupId":36609, "category":"shoes", "name":"Zapatos Little Coquette"},
+	{"groupId":36619, "category":"Dress", "name":"Vestido Little Coquette"},
+	{"groupId":36629, "category":"purse", "name":"Bolso Little Coquette"},
+	{"groupId":36639, "category":"wig", "name":"Peluca Little Coquette"},
+	{"groupId":36652, "category":"necklace", "name":"Fular Little Coquette"},
+	{"groupId":36662, "category":"necklace", "name":"Lazo Little Coquette"}
 ]
