@@ -31740,5 +31740,239 @@
             {"id":18760, "colors":["pink"]}
         ], "criteria":{"type":"gauge", "info":"Witch Next Door", "text":"Desbloqueado durante el evento de medidor\nWitch Next Door"},
         "releaseDate":"2026-09-15"
+    },
+    {
+        "groupId":18761, "zone":"feet", "category":"shoes", "security":"b70e47c3ac02f29f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bailarinas",
+        "outfitName":"Mini Pretty in Pink",
+        "variations":[
+            {"id":18761, "colors":["pink"]},
+            {"id":18762, "colors":["blue"]},
+            {"id":18763, "colors":["green"]},
+            {"id":18764, "colors":["purple"]},
+            {"id":18765, "colors":["blue","green"]},
+            {"id":18766, "colors":["orange"]},
+            {"id":18767, "colors":["yellow"]},
+            {"id":18768, "colors":["white"]},
+            {"id":18769, "colors":["black"]},
+            {"id":18770, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
+        "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18771, "zone":"waistToKnee", "category":"skirt", "security":"e7354f64ca7eedf7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Mini Pretty in Pink",
+        "variations":[
+            {"id":18771, "colors":["pink"]},
+            {"id":18772, "colors":["blue"]},
+            {"id":18773, "colors":["green"]},
+            {"id":18774, "colors":["purple"]},
+            {"id":18775, "colors":["blue","green"]},
+            {"id":18776, "colors":["orange"]},
+            {"id":18777, "colors":["yellow"]},
+            {"id":18778, "colors":["white"]},
+            {"id":18779, "colors":["black"]},
+            {"id":18780, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
+        "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18781, "zone":"torso", "category":"top", "security":"ded166216ccb1af6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Mini Pretty in Pink",
+        "variations":[
+            {"id":18781, "colors":["pink","white"]},
+            {"id":18782, "colors":["blue","white"]},
+            {"id":18783, "colors":["green","white"]},
+            {"id":18784, "colors":["purple","white"]},
+            {"id":18785, "colors":["blue","white","green"]},
+            {"id":18786, "colors":["orange","white"]},
+            {"id":18787, "colors":["yellow","white"]},
+            {"id":18788, "colors":["white"]},
+            {"id":18789, "colors":["black","white"]},
+            {"id":18790, "colors":["red","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
+        "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18791, "zone":"head", "category":"neckAccessory", "security":"ebd537b2b5108d99", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Fular",
+        "outfitName":"Mini Pretty in Pink",
+        "variations":[
+            {"id":18791, "colors":["pink"]},
+            {"id":18792, "colors":["blue"]},
+            {"id":18793, "colors":["green"]},
+            {"id":18794, "colors":["purple"]},
+            {"id":18795, "colors":["blue","green"]},
+            {"id":18796, "colors":["orange"]},
+            {"id":18797, "colors":["yellow"]},
+            {"id":18798, "colors":["white"]},
+            {"id":18799, "colors":["black"]},
+            {"id":18800, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
+        "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18801, "zone":"arms", "category":"bag", "security":"022ea1965ca43f3d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Mini Pretty in Pink",
+        "variations":[
+            {"id":18801, "colors":["pink"]},
+            {"id":18802, "colors":["blue"]},
+            {"id":18803, "colors":["green"]},
+            {"id":18804, "colors":["purple"]},
+            {"id":18805, "colors":["blue","green"]},
+            {"id":18806, "colors":["orange"]},
+            {"id":18807, "colors":["yellow"]},
+            {"id":18808, "colors":["white"]},
+            {"id":18809, "colors":["black"]},
+            {"id":18810, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
+        "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18811, "zone":"head", "category":"wig", "security":"8f79d4182bb9fc49", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Mini Pretty in Pink",
+        "variations":[
+            {"id":18811, "colors":["brown"]},
+            {"id":18812, "colors":["white"]},
+            {"id":18813, "colors":["black"]},
+            {"id":18814, "colors":["blue"]},
+            {"id":18815, "colors":["blue"]},
+            {"id":18816, "colors":["purple"]},
+            {"id":18817, "colors":["red"]},
+            {"id":18818, "colors":["yellow"]},
+            {"id":18819, "colors":["orange"]},
+            {"id":18820, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
+        "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18821, "zone":"head", "category":"neckAccessory", "security":"739626f69d3f6883", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lazo solidario",
+        "outfitName":null,
+        "variations":[
+            {"id":18821, "colors":["pink"]},
+            {"id":18822, "colors":["blue"]},
+            {"id":18823, "colors":["green"]},
+            {"id":18824, "colors":["purple"]},
+            {"id":18825, "colors":["blue","green"]},
+            {"id":18826, "colors":["orange"]},
+            {"id":18827, "colors":["yellow"]},
+            {"id":18828, "colors":["white"]},
+            {"id":18829, "colors":["black"]},
+            {"id":18830, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado durante el evento\nPink October"},
+        "releaseDate":"2026-10-01"
+    },
+    {
+        "groupId":18831, "zone":"feet", "category":"socks", "security":"eaaa9167279602ac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantys",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18831, "colors":["white","red"]},
+            {"id":18832, "colors":["brown"]},
+            {"id":18833, "colors":["purple","white"]},
+            {"id":18834, "colors":["green"]},
+            {"id":18835, "colors":["red","black"]},
+            {"id":18836, "colors":["brown","pink"]},
+            {"id":18837, "colors":["purple","pink"]},
+            {"id":18838, "colors":["blue"]},
+            {"id":18839, "colors":["grey","yellow"]},
+            {"id":18840, "colors":["black","blue","green"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18841, "zone":"feet", "category":"shoes", "security":"991f79fb99d79564", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18841, "colors":["golden","black"]},
+            {"id":18842, "colors":["golden","brown"]},
+            {"id":18843, "colors":["golden","purple"]},
+            {"id":18844, "colors":["golden","green"]},
+            {"id":18845, "colors":["golden","red"]},
+            {"id":18846, "colors":["silver","pink"]},
+            {"id":18847, "colors":["silver","grey"]},
+            {"id":18848, "colors":["silver","blue"]},
+            {"id":18849, "colors":["silver","yellow"]},
+            {"id":18850, "colors":["silver","black"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18851, "zone":"torso", "category":"top", "security":"421d2429e75a5efa", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18851, "colors":["white"]},
+            {"id":18852, "colors":["brown"]},
+            {"id":18853, "colors":["purple"]},
+            {"id":18854, "colors":["green"]},
+            {"id":18855, "colors":["red"]},
+            {"id":18856, "colors":["brown"]},
+            {"id":18857, "colors":["pink"]},
+            {"id":18858, "colors":["blue"]},
+            {"id":18859, "colors":["grey"]},
+            {"id":18860, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18861, "zone":"torso_waistToKnee", "category":"dress", "security":"fe227367fe1bba55", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18861, "colors":["red"]},
+            {"id":18862, "colors":["brown"]},
+            {"id":18863, "colors":["white"]},
+            {"id":18864, "colors":["green"]},
+            {"id":18865, "colors":["black"]},
+            {"id":18866, "colors":["pink"]},
+            {"id":18867, "colors":["purple"]},
+            {"id":18868, "colors":["blue"]},
+            {"id":18869, "colors":["yellow"]},
+            {"id":18870, "colors":["green","blue"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18871, "zone":"head", "category":"neckAccessory", "security":"69e8424c4e50d47f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lazo",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18871, "colors":["red"]},
+            {"id":18872, "colors":["brown"]},
+            {"id":18873, "colors":["white"]},
+            {"id":18874, "colors":["green"]},
+            {"id":18875, "colors":["black"]},
+            {"id":18876, "colors":["pink"]},
+            {"id":18877, "colors":["purple"]},
+            {"id":18878, "colors":["blue"]},
+            {"id":18879, "colors":["yellow"]},
+            {"id":18880, "colors":["green","blue"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18881, "zone":"arms", "category":"bag", "security":"c5694ef37e7f2b06", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cartera",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18881, "colors":["golden","black"]},
+            {"id":18882, "colors":["golden","brown"]},
+            {"id":18883, "colors":["golden","purple"]},
+            {"id":18884, "colors":["golden","green"]},
+            {"id":18885, "colors":["golden","red"]},
+            {"id":18886, "colors":["silver","pink"]},
+            {"id":18887, "colors":["silver","grey"]},
+            {"id":18888, "colors":["silver","blue"]},
+            {"id":18889, "colors":["silver","yellow"]},
+            {"id":18890, "colors":["silver","black"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
     }
 ]
