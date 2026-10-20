@@ -31992,5 +31992,23 @@
             {"id":19280, "colors":["green","blue"]}
         ], "criteria":null,
         "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19211, "zone":"face", "category":"neckAccessory", "security":"bb134fc8cfc19ca1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19211, "colors":["red"]},
+            {"id":19212, "colors":["brown"]},
+            {"id":19213, "colors":["white"]},
+            {"id":19214, "colors":["green"]},
+            {"id":19215, "colors":["black"]},
+            {"id":19216, "colors":["pink"]},
+            {"id":19217, "colors":["purple"]},
+            {"id":19218, "colors":["blue"]},
+            {"id":19219, "colors":["yellow"]},
+            {"id":19220, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
