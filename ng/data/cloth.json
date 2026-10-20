@@ -32064,5 +32064,23 @@
             {"id":19270, "colors":["green","blue"]}
         ], "criteria":null,
         "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19251, "zone":"torso_waistToKnee", "category":"waist", "security":"8455ac62b0b27c40", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Belt",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19251, "colors":["red"]},
+            {"id":19252, "colors":["brown"]},
+            {"id":19253, "colors":["white"]},
+            {"id":19254, "colors":["green"]},
+            {"id":19255, "colors":["black"]},
+            {"id":19256, "colors":["pink"]},
+            {"id":19257, "colors":["purple"]},
+            {"id":19258, "colors":["blue"]},
+            {"id":19259, "colors":["yellow"]},
+            {"id":19260, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
