@@ -32118,5 +32118,23 @@
             {"id":19200, "colors":["green","blue"]}
         ], "criteria":null,
         "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19201, "zone":"feet", "category":"shoes", "security":"e999732920691d9f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19201, "colors":["red"]},
+            {"id":19202, "colors":["brown"]},
+            {"id":19203, "colors":["white"]},
+            {"id":19204, "colors":["green"]},
+            {"id":19205, "colors":["black"]},
+            {"id":19206, "colors":["pink"]},
+            {"id":19207, "colors":["purple"]},
+            {"id":19208, "colors":["blue"]},
+            {"id":19209, "colors":["yellow"]},
+            {"id":19210, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
