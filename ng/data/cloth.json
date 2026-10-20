@@ -32082,5 +32082,23 @@
             {"id":19260, "colors":["green","blue"]}
         ], "criteria":null,
         "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19281, "zone":"arms", "category":"bag", "security":"f11961b12100b52f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Crossbow",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19281, "colors":["red"]},
+            {"id":19282, "colors":["brown"]},
+            {"id":19283, "colors":["white"]},
+            {"id":19284, "colors":["green"]},
+            {"id":19285, "colors":["black"]},
+            {"id":19286, "colors":["pink"]},
+            {"id":19287, "colors":["purple"]},
+            {"id":19288, "colors":["blue"]},
+            {"id":19289, "colors":["yellow"]},
+            {"id":19290, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
