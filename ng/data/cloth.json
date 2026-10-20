@@ -32136,5 +32136,23 @@
             {"id":19210, "colors":["green","blue"]}
         ], "criteria":null,
         "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19241, "zone":"feet", "category":"legAccessory", "security":"84c418575ad4ac8f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dagger",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19241, "colors":["red"]},
+            {"id":19242, "colors":["brown"]},
+            {"id":19243, "colors":["white"]},
+            {"id":19244, "colors":["green"]},
+            {"id":19245, "colors":["black"]},
+            {"id":19246, "colors":["pink"]},
+            {"id":19247, "colors":["purple"]},
+            {"id":19248, "colors":["blue"]},
+            {"id":19249, "colors":["yellow"]},
+            {"id":19250, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
