@@ -32046,5 +32046,23 @@
             {"id":19240, "colors":["green","blue"]}
         ], "criteria":null,
         "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19261, "zone":"torso", "category":"jacket", "security":"5a088130347ff291", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Coat",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19261, "colors":["red"]},
+            {"id":19262, "colors":["brown"]},
+            {"id":19263, "colors":["white"]},
+            {"id":19264, "colors":["green"]},
+            {"id":19265, "colors":["black"]},
+            {"id":19266, "colors":["pink"]},
+            {"id":19267, "colors":["purple"]},
+            {"id":19268, "colors":["blue"]},
+            {"id":19269, "colors":["yellow"]},
+            {"id":19270, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
