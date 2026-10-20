@@ -32100,5 +32100,23 @@
             {"id":19290, "colors":["green","blue"]}
         ], "criteria":null,
         "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19191, "zone":"waistToKnee", "category":"pants", "security":"1f33dbf5353963c4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19191, "colors":["red"]},
+            {"id":19192, "colors":["brown"]},
+            {"id":19193, "colors":["white"]},
+            {"id":19194, "colors":["green"]},
+            {"id":19195, "colors":["black"]},
+            {"id":19196, "colors":["pink"]},
+            {"id":19197, "colors":["purple"]},
+            {"id":19198, "colors":["blue"]},
+            {"id":19199, "colors":["yellow"]},
+            {"id":19200, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
