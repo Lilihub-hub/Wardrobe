@@ -31974,5 +31974,23 @@
             {"id":18890, "colors":["silver","black"]}
         ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
         "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":19271, "zone":"head", "category":"hat", "security":"36113ee8ec71afd3", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19271, "colors":["red"]},
+            {"id":19272, "colors":["brown"]},
+            {"id":19273, "colors":["white"]},
+            {"id":19274, "colors":["green"]},
+            {"id":19275, "colors":["black"]},
+            {"id":19276, "colors":["pink"]},
+            {"id":19277, "colors":["purple"]},
+            {"id":19278, "colors":["blue"]},
+            {"id":19279, "colors":["yellow"]},
+            {"id":19280, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
