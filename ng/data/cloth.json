@@ -32010,5 +32010,23 @@
             {"id":19220, "colors":["green","blue"]}
         ], "criteria":null,
         "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19221, "zone":"torso", "category":"top", "security":"906f4dc75e196f8b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Blouse",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19221, "colors":["red"]},
+            {"id":19222, "colors":["brown"]},
+            {"id":19223, "colors":["white"]},
+            {"id":19224, "colors":["green"]},
+            {"id":19225, "colors":["black"]},
+            {"id":19226, "colors":["pink"]},
+            {"id":19227, "colors":["purple"]},
+            {"id":19228, "colors":["blue"]},
+            {"id":19229, "colors":["yellow"]},
+            {"id":19230, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
